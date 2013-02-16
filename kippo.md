@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>11651</td><td>Singapore</td><td>Singapore</td>
+    <td>11730</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
     <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
@@ -81,9 +81,6 @@
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>41</td><td>United States</td><td>Chicago</td>
-  </tr>
-  <tr>
     <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
@@ -147,10 +144,10 @@
     <td>3</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Jiamusi</td>
