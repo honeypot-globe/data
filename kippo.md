@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>13798</td><td>Singapore</td><td>Singapore</td>
+    <td>14008</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -24,6 +24,9 @@
     <td>359</td><td>India</td><td>Bangalore</td>
   </tr>
   <tr>
+    <td>308</td><td>United States</td><td>Atlanta</td>
+  </tr>
+  <tr>
     <td>293</td><td>Romania</td><td></td>
   </tr>
   <tr>
@@ -36,9 +39,6 @@
     <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>224</td><td>Taiwan, Province of China</td><td></td>
-  </tr>
-  <tr>
     <td>206</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
@@ -46,9 +46,6 @@
   </tr>
   <tr>
     <td>171</td><td>United States</td><td>Canyon Country</td>
-  </tr>
-  <tr>
-    <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
@@ -192,12 +189,12 @@
     <td>1</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
+    <td>1</td><td>United Kingdom</td><td></td>
   </tr>
 </table>
