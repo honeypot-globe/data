@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>11992</td><td>Singapore</td><td>Singapore</td>
+    <td>12171</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
     <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
