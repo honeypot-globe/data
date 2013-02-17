@@ -72,6 +72,9 @@
     <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
+    <td>69</td><td>China</td><td></td>
+  </tr>
+  <tr>
     <td>52</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
@@ -100,9 +103,6 @@
   </tr>
   <tr>
     <td>37</td><td>China</td><td>Haidian</td>
-  </tr>
-  <tr>
-    <td>33</td><td>China</td><td></td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
