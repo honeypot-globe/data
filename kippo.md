@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>12792</td><td>Singapore</td><td>Singapore</td>
+    <td>13232</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -18,10 +18,7 @@
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
-    <td>448</td><td>Taiwan, Province of China</td><td></td>
-  </tr>
-  <tr>
-    <td>403</td><td>China</td><td>Beijing</td>
+    <td>361</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
@@ -39,10 +36,13 @@
     <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>China</td><td>Hebei</td>
+    <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
-    <td>215</td><td>China</td><td>Shanghai</td>
+    <td>206</td><td>China</td><td>Shanghai</td>
+  </tr>
+  <tr>
+    <td>196</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
     <td>171</td><td>United States</td><td>Canyon Country</td>
@@ -60,10 +60,10 @@
     <td>106</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
     <td>74</td><td>China</td><td>Hangzhou</td>
@@ -114,10 +114,10 @@
     <td>19</td><td>Japan</td><td></td>
   </tr>
   <tr>
-    <td>18</td><td>Spain</td><td></td>
+    <td>18</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>18</td><td>China</td><td>Jinan</td>
+    <td>18</td><td>Spain</td><td></td>
   </tr>
   <tr>
     <td>17</td><td>Thailand</td><td>Bangkok</td>
@@ -127,6 +127,9 @@
   </tr>
   <tr>
     <td>15</td><td>India</td><td>Kadapa</td>
+  </tr>
+  <tr>
+    <td>14</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>12</td><td>Belarus</td><td></td>
@@ -150,42 +153,42 @@
     <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
-  </tr>
-  <tr>
     <td>3</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
-    <td>2</td><td>Turkey</td><td></td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
+  </tr>
+  <tr>
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Hungary</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>Spain</td><td>Madrid</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
-  </tr>
-  <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Spain</td><td>Madrid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Galati</td>
+  </tr>
+  <tr>
+    <td>1</td><td>United Kingdom</td><td></td>
+  </tr>
+  <tr>
     <td>1</td><td>Korea, Republic of</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
 </table>
