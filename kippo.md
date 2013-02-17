@@ -45,6 +45,9 @@
     <td>171</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
+    <td>157</td><td>Mexico</td><td></td>
+  </tr>
+  <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
@@ -105,10 +108,10 @@
     <td>19</td><td>Japan</td><td></td>
   </tr>
   <tr>
-    <td>18</td><td>Spain</td><td></td>
+    <td>18</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>18</td><td>China</td><td>Jinan</td>
+    <td>18</td><td>Spain</td><td></td>
   </tr>
   <tr>
     <td>17</td><td>Thailand</td><td>Bangkok</td>
@@ -159,13 +162,16 @@
     <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
-  </tr>
-  <tr>
     <td>1</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
     <td>1</td><td>Korea, Republic of</td><td></td>
@@ -174,15 +180,12 @@
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
+    <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
     <td>1</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Campia Turzii</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Hungary</td><td></td>
+    <td>1</td><td>United States</td><td></td>
   </tr>
 </table>
