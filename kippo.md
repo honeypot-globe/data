@@ -69,6 +69,9 @@
     <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
+    <td>52</td><td>China</td><td>Putian</td>
+  </tr>
+  <tr>
     <td>50</td><td>Italy</td><td></td>
   </tr>
   <tr>
@@ -117,9 +120,6 @@
     <td>17</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
-    <td>16</td><td>China</td><td>Putian</td>
-  </tr>
-  <tr>
     <td>16</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Jiamusi</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>3</td><td>Indonesia</td><td>Jakarta</td>
@@ -156,16 +156,10 @@
     <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+    <td>3</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
@@ -174,19 +168,25 @@
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
-    <td>1</td><td>Spain</td><td>Madrid</td>
-  </tr>
-  <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
+    <td>1</td><td>Spain</td><td>Madrid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Korea, Republic of</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
     <td>1</td><td>United Kingdom</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
