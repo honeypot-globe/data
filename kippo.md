@@ -105,10 +105,10 @@
     <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
-    <td>40</td><td>United States</td><td>Manassas</td>
+    <td>41</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>38</td><td>China</td><td>Jinan</td>
+    <td>40</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
     <td>37</td><td>China</td><td>Haidian</td>
