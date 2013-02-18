@@ -63,10 +63,10 @@
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
-    <td>154</td><td>United States</td><td>Atlanta</td>
+    <td>156</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
-    <td>150</td><td>Korea, Republic of</td><td></td>
+    <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
@@ -144,6 +144,9 @@
     <td>16</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
+    <td>16</td><td>China</td><td>Nanchang</td>
+  </tr>
+  <tr>
     <td>15</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
@@ -160,9 +163,6 @@
   </tr>
   <tr>
     <td>10</td><td>China</td><td>Suzhou</td>
-  </tr>
-  <tr>
-    <td>7</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>6</td><td>China</td><td>Fushun</td>
@@ -201,7 +201,7 @@
     <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>United Kingdom</td><td></td>
@@ -210,13 +210,13 @@
     <td>1</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+    <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
     <td>1</td><td>China</td><td>Nanning</td>
@@ -225,6 +225,6 @@
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>United States</td><td></td>
   </tr>
 </table>
