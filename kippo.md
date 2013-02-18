@@ -30,7 +30,7 @@
     <td>354</td><td>China</td><td></td>
   </tr>
   <tr>
-    <td>302</td><td>Turkey</td><td>Ankara</td>
+    <td>319</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
     <td>293</td><td>Romania</td><td></td>
