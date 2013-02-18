@@ -36,6 +36,9 @@
     <td>273</td><td>Brazil</td><td></td>
   </tr>
   <tr>
+    <td>257</td><td>China</td><td></td>
+  </tr>
+  <tr>
     <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
@@ -49,9 +52,6 @@
   </tr>
   <tr>
     <td>187</td><td>China</td><td>Guangzhou</td>
-  </tr>
-  <tr>
-    <td>183</td><td>China</td><td></td>
   </tr>
   <tr>
     <td>171</td><td>United States</td><td>Canyon Country</td>
