@@ -21,7 +21,7 @@
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
-    <td>361</td><td>China</td><td>Beijing</td>
+    <td>364</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
@@ -48,6 +48,9 @@
     <td>196</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
+    <td>187</td><td>China</td><td>Guangzhou</td>
+  </tr>
+  <tr>
     <td>183</td><td>China</td><td></td>
   </tr>
   <tr>
@@ -64,9 +67,6 @@
   </tr>
   <tr>
     <td>116</td><td>United States</td><td>Fort Lauderdale</td>
-  </tr>
-  <tr>
-    <td>106</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
