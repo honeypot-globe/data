@@ -21,6 +21,9 @@
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
+    <td>367</td><td>Turkey</td><td>Ankara</td>
+  </tr>
+  <tr>
     <td>364</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
@@ -28,9 +31,6 @@
   </tr>
   <tr>
     <td>354</td><td>China</td><td></td>
-  </tr>
-  <tr>
-    <td>330</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
     <td>293</td><td>Romania</td><td></td>
@@ -60,13 +60,13 @@
     <td>171</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
+    <td>161</td><td>Korea, Republic of</td><td></td>
+  </tr>
+  <tr>
     <td>161</td><td>France</td><td></td>
   </tr>
   <tr>
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
-  </tr>
-  <tr>
-    <td>156</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
@@ -174,10 +174,10 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Nanjing</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
@@ -207,36 +207,36 @@
     <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
-  </tr>
-  <tr>
     <td>1</td><td>United States</td><td>Tempe</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Spain</td><td>Madrid</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Campia Turzii</td>
+    <td>1</td><td>Spain</td><td>Madrid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>United Kingdom</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Campia Turzii</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
 </table>
