@@ -75,6 +75,9 @@
     <td>116</td><td>United States</td><td>Fort Lauderdale</td>
   </tr>
   <tr>
+    <td>105</td><td>Turkey</td><td>Ankara</td>
+  </tr>
+  <tr>
     <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
@@ -192,31 +195,31 @@
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td>Tempe</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Hungary</td><td></td>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
+    <td>1</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Galati</td>
+  </tr>
+  <tr>
+    <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>China</td><td>Nanning</td>
@@ -225,6 +228,6 @@
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
 </table>
