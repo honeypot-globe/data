@@ -36,13 +36,13 @@
     <td>286</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
+    <td>276</td><td>Turkey</td><td>Ankara</td>
+  </tr>
+  <tr>
     <td>273</td><td>Brazil</td><td></td>
   </tr>
   <tr>
     <td>228</td><td>Malaysia</td><td></td>
-  </tr>
-  <tr>
-    <td>226</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
     <td>224</td><td>Taiwan, Province of China</td><td></td>
