@@ -24,7 +24,7 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
-    <td>364</td><td>China</td><td>Beijing</td>
+    <td>376</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
