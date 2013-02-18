@@ -120,10 +120,10 @@
     <td>19</td><td>Japan</td><td></td>
   </tr>
   <tr>
-    <td>18</td><td>China</td><td>Jinan</td>
+    <td>18</td><td>Spain</td><td></td>
   </tr>
   <tr>
-    <td>18</td><td>Spain</td><td></td>
+    <td>18</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>17</td><td>Thailand</td><td>Bangkok</td>
@@ -132,10 +132,10 @@
     <td>16</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
-    <td>15</td><td>Indonesia</td><td>Jakarta</td>
+    <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
-    <td>15</td><td>India</td><td>Kadapa</td>
+    <td>15</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
     <td>14</td><td>Turkey</td><td></td>
@@ -147,6 +147,9 @@
     <td>11</td><td>United States</td><td>Hudson</td>
   </tr>
   <tr>
+    <td>7</td><td>China</td><td>Suzhou</td>
+  </tr>
+  <tr>
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
@@ -156,28 +159,28 @@
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
-  </tr>
-  <tr>
     <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+  </tr>
+  <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
     <td>1</td><td>Spain</td><td>Madrid</td>
@@ -195,12 +198,12 @@
     <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
+    <td>1</td><td>United Kingdom</td><td></td>
   </tr>
 </table>
