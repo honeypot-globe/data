@@ -15,10 +15,10 @@
     <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
-    <td>1768</td><td>United States</td><td>Dallas</td>
+    <td>1951</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
-    <td>1723</td><td>China</td><td>Beijing</td>
+    <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
