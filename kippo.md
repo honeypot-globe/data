@@ -21,7 +21,7 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>847</td><td>Russian Federation</td><td></td>
+    <td>1102</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
@@ -48,6 +48,9 @@
     <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
+    <td>228</td><td>Panama</td><td></td>
+  </tr>
+  <tr>
     <td>226</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
@@ -58,9 +61,6 @@
   </tr>
   <tr>
     <td>187</td><td>China</td><td>Guangzhou</td>
-  </tr>
-  <tr>
-    <td>172</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>162</td><td>France</td><td></td>
