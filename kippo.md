@@ -18,7 +18,7 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1210</td><td>China</td><td>Beijing</td>
+    <td>1272</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
