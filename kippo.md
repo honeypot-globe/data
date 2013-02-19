@@ -12,19 +12,19 @@
     <td>2847</td><td>Mexico</td><td></td>
   </tr>
   <tr>
-    <td>2074</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
+  </tr>
+  <tr>
+    <td>742</td><td>China</td><td></td>
   </tr>
   <tr>
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>658</td><td>China</td><td>Beijing</td>
-  </tr>
-  <tr>
-    <td>580</td><td>China</td><td></td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
@@ -90,7 +90,7 @@
     <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
-    <td>64</td><td>Germany</td><td></td>
+    <td>67</td><td>Germany</td><td></td>
   </tr>
   <tr>
     <td>52</td><td>China</td><td>Putian</td>
@@ -102,6 +102,9 @@
     <td>48</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
+    <td>45</td><td>Australia</td><td></td>
+  </tr>
+  <tr>
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
@@ -109,6 +112,9 @@
   </tr>
   <tr>
     <td>41</td><td>China</td><td>Jinan</td>
+  </tr>
+  <tr>
+    <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>40</td><td>United States</td><td>Manassas</td>
@@ -123,16 +129,16 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>30</td><td>China</td><td>Xian</td>
+    <td>29</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
     <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
-    <td>29</td><td>Canada</td><td>Lasalle</td>
+    <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
-    <td>24</td><td>United States</td><td>Miami</td>
+    <td>19</td><td>Japan</td><td></td>
   </tr>
   <tr>
     <td>18</td><td>Spain</td><td></td>
@@ -159,6 +165,9 @@
     <td>12</td><td>Belarus</td><td></td>
   </tr>
   <tr>
+    <td>11</td><td>United States</td><td>Hudson</td>
+  </tr>
+  <tr>
     <td>10</td><td>China</td><td>Suzhou</td>
   </tr>
   <tr>
@@ -168,10 +177,10 @@
     <td>5</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
-    <td>5</td><td>United States</td><td>Tempe</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>4</td><td>Finland</td><td>Tampere</td>
@@ -183,10 +192,13 @@
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
+  </tr>
+  <tr>
     <td>3</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>2</td><td>Romania</td><td>Campia Turzii</td>
@@ -195,39 +207,42 @@
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
-  </tr>
-  <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
+    <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
-    <td>1</td><td>Spain</td><td>Madrid</td>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+    <td>1</td><td>United States</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
+    <td>1</td><td>Spain</td><td>Madrid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>United Kingdom</td><td></td>
+  </tr>
+  <tr>
     <td>1</td><td>Romania</td><td>Campina</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
 </table>
