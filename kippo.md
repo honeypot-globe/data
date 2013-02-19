@@ -18,7 +18,7 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1593</td><td>China</td><td>Beijing</td>
+    <td>1616</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
@@ -34,6 +34,9 @@
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
+  </tr>
+  <tr>
+    <td>343</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
     <td>293</td><td>Romania</td><td></td>
@@ -55,9 +58,6 @@
   </tr>
   <tr>
     <td>187</td><td>China</td><td>Guangzhou</td>
-  </tr>
-  <tr>
-    <td>171</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
     <td>162</td><td>France</td><td></td>
