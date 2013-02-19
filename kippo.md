@@ -21,7 +21,7 @@
     <td>809</td><td>China</td><td></td>
   </tr>
   <tr>
-    <td>740</td><td>China</td><td>Beijing</td>
+    <td>748</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>691</td><td>Russian Federation</td><td></td>
