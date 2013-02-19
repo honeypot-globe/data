@@ -174,10 +174,13 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
+    <td>5</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
     <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Nanjing</td>
+    <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
     <td>4</td><td>Viet Nam</td><td></td>
@@ -186,16 +189,16 @@
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
-    <td>4</td><td>Finland</td><td>Tampere</td>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
+  </tr>
+  <tr>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>3</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
-  </tr>
-  <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+    <td>2</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
@@ -208,9 +211,6 @@
   </tr>
   <tr>
     <td>1</td><td>Hungary</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>1</td><td>United Kingdom</td><td></td>
