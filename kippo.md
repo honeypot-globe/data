@@ -21,10 +21,10 @@
     <td>809</td><td>China</td><td></td>
   </tr>
   <tr>
-    <td>691</td><td>Russian Federation</td><td></td>
+    <td>740</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
-    <td>682</td><td>China</td><td>Beijing</td>
+    <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
