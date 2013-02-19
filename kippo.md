@@ -24,7 +24,7 @@
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
-    <td>658</td><td>China</td><td>Beijing</td>
+    <td>682</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
@@ -45,10 +45,10 @@
     <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>224</td><td>Taiwan, Province of China</td><td></td>
+    <td>226</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
-    <td>206</td><td>China</td><td>Shanghai</td>
+    <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
