@@ -18,7 +18,7 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1503</td><td>China</td><td>Beijing</td>
+    <td>1561</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
@@ -192,22 +192,25 @@
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
-    <td>3</td><td>Philippines</td><td>Sampaloc</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Romania</td><td>Campia Turzii</td>
+    <td>3</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
-    <td>1</td><td>United Kingdom</td><td></td>
+    <td>2</td><td>Romania</td><td>Campia Turzii</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Hong Kong</td><td>Central District</td>
   </tr>
   <tr>
     <td>1</td><td>Hungary</td><td></td>
@@ -216,10 +219,10 @@
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
@@ -234,7 +237,7 @@
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
+    <td>1</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Campina</td>
