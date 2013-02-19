@@ -171,13 +171,13 @@
     <td>10</td><td>China</td><td>Suzhou</td>
   </tr>
   <tr>
+    <td>8</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
     <td>5</td><td>China</td><td>Jiamusi</td>
-  </tr>
-  <tr>
-    <td>5</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>5</td><td>United States</td><td>Tempe</td>
