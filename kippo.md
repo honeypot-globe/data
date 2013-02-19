@@ -21,7 +21,7 @@
     <td>691</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
-    <td>542</td><td>China</td><td>Beijing</td>
+    <td>642</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
