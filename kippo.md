@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>9225</td><td>China</td><td>Beijing</td>
+    <td>9248</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -21,10 +21,10 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1102</td><td>Russian Federation</td><td></td>
+    <td>1178</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
-    <td>947</td><td>China</td><td>Hangzhou</td>
+    <td>1102</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
@@ -66,10 +66,10 @@
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>224</td><td>Taiwan, Province of China</td><td></td>
