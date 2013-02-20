@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>6726</td><td>China</td><td>Beijing</td>
+    <td>6796</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -87,6 +87,9 @@
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
+    <td>159</td><td>Germany</td><td></td>
+  </tr>
+  <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
@@ -96,19 +99,16 @@
     <td>116</td><td>United States</td><td>Fort Lauderdale</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>74</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
-  </tr>
-  <tr>
-    <td>67</td><td>Germany</td><td></td>
   </tr>
   <tr>
     <td>57</td><td>Austria</td><td></td>
@@ -129,10 +129,10 @@
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Xian</td>
+    <td>41</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Jinan</td>
+    <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>37</td><td>China</td><td>Haidian</td>
