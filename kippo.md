@@ -9,7 +9,7 @@
     <td>14337</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>3402</td><td>China</td><td>Beijing</td>
+    <td>3566</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -123,10 +123,10 @@
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Xian</td>
+    <td>41</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Jinan</td>
+    <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>37</td><td>China</td><td>Haidian</td>
@@ -162,10 +162,10 @@
     <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
-    <td>15</td><td>India</td><td>Kadapa</td>
+    <td>15</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
-    <td>15</td><td>Indonesia</td><td>Jakarta</td>
+    <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
     <td>14</td><td>Turkey</td><td></td>
@@ -183,19 +183,19 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
+    <td>5</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>United States</td><td>Tempe</td>
+    <td>4</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
     <td>4</td><td>Hong Kong</td><td>Central District</td>
   </tr>
   <tr>
     <td>4</td><td>Finland</td><td>Tampere</td>
-  </tr>
-  <tr>
-    <td>4</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
@@ -222,10 +222,10 @@
     <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+    <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>China</td><td>Zhengzhou</td>
@@ -240,13 +240,13 @@
     <td>1</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Campina</td>
   </tr>
   <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
