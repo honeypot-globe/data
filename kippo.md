@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>7731</td><td>China</td><td>Beijing</td>
+    <td>7853</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -147,10 +147,10 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>29</td><td>Thailand</td><td></td>
+    <td>29</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>29</td><td>Canada</td><td>Lasalle</td>
+    <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
@@ -168,10 +168,13 @@
     <td>17</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
-    <td>16</td><td>China</td><td>Wuhan</td>
+    <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
-    <td>16</td><td>China</td><td>Nanchang</td>
+    <td>16</td><td>United States</td><td>Walnut</td>
+  </tr>
+  <tr>
+    <td>16</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>15</td><td>India</td><td>Kadapa</td>
