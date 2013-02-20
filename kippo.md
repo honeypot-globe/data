@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>9425</td><td>China</td><td>Beijing</td>
+    <td>9652</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -18,7 +18,7 @@
     <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
-    <td>1866</td><td>China</td><td>Hangzhou</td>
+    <td>2095</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
@@ -66,10 +66,10 @@
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>224</td><td>Taiwan, Province of China</td><td></td>
@@ -159,10 +159,10 @@
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
-    <td>19</td><td>Japan</td><td></td>
+    <td>19</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
-    <td>19</td><td>United Kingdom</td><td></td>
+    <td>19</td><td>Japan</td><td></td>
   </tr>
   <tr>
     <td>18</td><td>Spain</td><td></td>
@@ -171,13 +171,13 @@
     <td>17</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
+    <td>16</td><td>China</td><td>Nanchang</td>
+  </tr>
+  <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
     <td>16</td><td>China</td><td>Wuhan</td>
-  </tr>
-  <tr>
-    <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>15</td><td>Indonesia</td><td>Jakarta</td>
@@ -201,10 +201,10 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>5</td><td>United States</td><td>Tempe</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
@@ -219,7 +219,10 @@
     <td>4</td><td>Hong Kong</td><td>Central District</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+  </tr>
+  <tr>
+    <td>3</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
     <td>3</td><td>Colombia</td><td>Cali</td>
@@ -228,10 +231,10 @@
     <td>3</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
-    <td>3</td><td>Romania</td><td>Campia Turzii</td>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+    <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
     <td>2</td><td>China</td><td>Zhengzhou</td>
@@ -240,16 +243,22 @@
     <td>2</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>2</td><td>Germany</td><td>Wetzlar</td>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Turnu</td>
+    <td>1</td><td>United States</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Galati</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Campina</td>
@@ -258,24 +267,15 @@
     <td>1</td><td>United States</td><td>Matawan</td>
   </tr>
   <tr>
-    <td>1</td><td>Hungary</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
-  </tr>
-  <tr>
     <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>Romania</td><td>Turnu</td>
   </tr>
 </table>
