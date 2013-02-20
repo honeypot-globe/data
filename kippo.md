@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>9195</td><td>China</td><td>Beijing</td>
+    <td>9225</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -57,19 +57,25 @@
     <td>276</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
+    <td>264</td><td>China</td><td>Hangzhou</td>
+  </tr>
+  <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
     <td>221</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
+    <td>201</td><td>China</td><td>Wuxi</td>
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
@@ -88,9 +94,6 @@
   </tr>
   <tr>
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
-  </tr>
-  <tr>
-    <td>155</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
@@ -115,9 +118,6 @@
   </tr>
   <tr>
     <td>57</td><td>Austria</td><td></td>
-  </tr>
-  <tr>
-    <td>53</td><td>China</td><td>Wuxi</td>
   </tr>
   <tr>
     <td>50</td><td>Italy</td><td></td>
@@ -150,10 +150,10 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>29</td><td>Thailand</td><td></td>
+    <td>29</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>29</td><td>Canada</td><td>Lasalle</td>
+    <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
@@ -201,25 +201,28 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
-  </tr>
-  <tr>
     <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>4</td><td>Finland</td><td>Tampere</td>
-  </tr>
-  <tr>
-    <td>4</td><td>Hong Kong</td><td>Central District</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>4</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
+    <td>4</td><td>Hong Kong</td><td>Central District</td>
+  </tr>
+  <tr>
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
+    <td>4</td><td>Finland</td><td>Tampere</td>
+  </tr>
+  <tr>
     <td>3</td><td>Romania</td><td>Campia Turzii</td>
+  </tr>
+  <tr>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
     <td>3</td><td>Philippines</td><td>Sampaloc</td>
@@ -228,46 +231,43 @@
     <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
-  </tr>
-  <tr>
     <td>3</td><td>Colombia</td><td>Cali</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
     <td>2</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
+    <td>2</td><td>Spain</td><td>Madrid</td>
+  </tr>
+  <tr>
     <td>2</td><td>Germany</td><td>Wetzlar</td>
-  </tr>
-  <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Matawan</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Turnu</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Campina</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Hungary</td><td></td>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
+    <td>1</td><td>Romania</td><td>Galati</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Hungary</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Turnu</td>
+  </tr>
+  <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>Romania</td><td>Campina</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
@@ -276,6 +276,6 @@
     <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
 </table>
