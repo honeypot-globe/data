@@ -57,13 +57,13 @@
     <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
+    <td>219</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
     <td>196</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
     <td>187</td><td>China</td><td>Guangzhou</td>
-  </tr>
-  <tr>
-    <td>178</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>162</td><td>France</td><td></td>
