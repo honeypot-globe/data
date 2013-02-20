@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>9652</td><td>China</td><td>Beijing</td>
+    <td>9736</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -18,7 +18,7 @@
     <td>2763</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
-    <td>2095</td><td>China</td><td>Hangzhou</td>
+    <td>2103</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
@@ -150,10 +150,10 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>29</td><td>Canada</td><td>Lasalle</td>
+    <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
-    <td>29</td><td>Thailand</td><td></td>
+    <td>29</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
@@ -171,19 +171,19 @@
     <td>17</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
-    <td>16</td><td>China</td><td>Nanchang</td>
+    <td>16</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
-    <td>16</td><td>United States</td><td>Walnut</td>
+    <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>16</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
-    <td>15</td><td>Indonesia</td><td>Jakarta</td>
+    <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
-    <td>15</td><td>India</td><td>Kadapa</td>
+    <td>15</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
     <td>14</td><td>Turkey</td><td></td>
@@ -201,34 +201,34 @@
     <td>6</td><td>China</td><td>Fushun</td>
   </tr>
   <tr>
-    <td>5</td><td>United States</td><td>Tempe</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>4</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
-    <td>4</td><td>Finland</td><td>Tampere</td>
+    <td>4</td><td>Hong Kong</td><td>Central District</td>
   </tr>
   <tr>
     <td>4</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>4</td><td>Hong Kong</td><td>Central District</td>
+    <td>4</td><td>Finland</td><td>Tampere</td>
+  </tr>
+  <tr>
+    <td>3</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
     <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
-    <td>3</td><td>Romania</td><td>Campia Turzii</td>
-  </tr>
-  <tr>
     <td>3</td><td>Colombia</td><td>Cali</td>
   </tr>
   <tr>
-    <td>3</td><td>Philippines</td><td>Sampaloc</td>
+    <td>3</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Zhangzhou</td>
@@ -243,7 +243,7 @@
     <td>2</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td></td>
@@ -252,10 +252,10 @@
     <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>Hungary</td><td></td>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+    <td>1</td><td>Hungary</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
