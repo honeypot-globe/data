@@ -9,7 +9,7 @@
     <td>14337</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>4620</td><td>China</td><td>Beijing</td>
+    <td>4668</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -25,6 +25,9 @@
   </tr>
   <tr>
     <td>809</td><td>China</td><td></td>
+  </tr>
+  <tr>
+    <td>454</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
@@ -45,16 +48,13 @@
     <td>293</td><td>Romania</td><td></td>
   </tr>
   <tr>
-    <td>256</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
-  </tr>
-  <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>226</td><td>China</td><td>Shanghai</td>
