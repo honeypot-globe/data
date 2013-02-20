@@ -63,6 +63,9 @@
     <td>187</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
+    <td>178</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
     <td>162</td><td>France</td><td></td>
   </tr>
   <tr>
@@ -117,10 +120,10 @@
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Xian</td>
+    <td>41</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Jinan</td>
+    <td>41</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>40</td><td>United States</td><td>Manassas</td>
@@ -135,10 +138,10 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>29</td><td>Thailand</td><td></td>
+    <td>29</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>29</td><td>Canada</td><td>Lasalle</td>
+    <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
@@ -175,9 +178,6 @@
   </tr>
   <tr>
     <td>10</td><td>China</td><td>Suzhou</td>
-  </tr>
-  <tr>
-    <td>8</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>6</td><td>China</td><td>Fushun</td>
