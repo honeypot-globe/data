@@ -9,7 +9,7 @@
     <td>14337</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>4747</td><td>China</td><td>Beijing</td>
+    <td>4943</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -51,10 +51,10 @@
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>226</td><td>China</td><td>Shanghai</td>
@@ -67,6 +67,9 @@
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
+  </tr>
+  <tr>
+    <td>190</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
     <td>187</td><td>China</td><td>Guangzhou</td>
@@ -85,9 +88,6 @@
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
-  </tr>
-  <tr>
-    <td>122</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
     <td>116</td><td>United States</td><td>Fort Lauderdale</td>
