@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>9325</td><td>China</td><td>Beijing</td>
+    <td>9388</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -21,7 +21,7 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1407</td><td>China</td><td>Hangzhou</td>
+    <td>1636</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>1102</td><td>Russian Federation</td><td></td>
