@@ -60,7 +60,7 @@
     <td>293</td><td>Romania</td><td></td>
   </tr>
   <tr>
-    <td>276</td><td>China</td><td>Shanghai</td>
+    <td>277</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
@@ -246,10 +246,13 @@
     <td>2</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
-    <td>1</td><td>China</td><td>Nanning</td>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
+    <td>1</td><td>France</td><td>Paris</td>
+  </tr>
+  <tr>
+    <td>1</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Constanta</td>
