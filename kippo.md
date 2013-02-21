@@ -9,7 +9,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>11636</td><td>China</td><td>Beijing</td>
+    <td>11834</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -75,7 +75,7 @@
     <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
-    <td>221</td><td>China</td><td>Nanjing</td>
+    <td>222</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
