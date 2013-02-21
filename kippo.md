@@ -129,19 +129,19 @@
     <td>50</td><td>Italy</td><td></td>
   </tr>
   <tr>
-    <td>48</td><td>Canada</td><td>Lasalle</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
     <td>48</td><td>China</td><td>Chongqing</td>
+  </tr>
+  <tr>
+    <td>48</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
     <td>45</td><td>Australia</td><td></td>
   </tr>
   <tr>
     <td>44</td><td>Thailand</td><td>Surin</td>
-  </tr>
-  <tr>
-    <td>44</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
     <td>42</td><td>India</td><td>Hyderabad</td>
