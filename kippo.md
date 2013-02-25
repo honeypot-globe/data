@@ -102,16 +102,19 @@
     <td>184</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
-    <td>162</td><td>France</td><td></td>
+    <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>162</td><td>Philippines</td><td>Ugong Norte</td>
+    <td>162</td><td>France</td><td></td>
   </tr>
   <tr>
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
+  </tr>
+  <tr>
+    <td>136</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
@@ -127,9 +130,6 @@
   </tr>
   <tr>
     <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
-  </tr>
-  <tr>
-    <td>74</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
