@@ -21,7 +21,7 @@
     <td>2840</td><td>Korea, Republic of</td><td>Gwangmyeong</td>
   </tr>
   <tr>
-    <td>2263</td><td>France</td><td></td>
+    <td>2624</td><td>France</td><td></td>
   </tr>
   <tr>
     <td>2103</td><td>China</td><td>Hangzhou</td>
