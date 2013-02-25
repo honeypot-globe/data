@@ -81,10 +81,13 @@
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
     <td>228</td><td>Malaysia</td><td></td>
+  </tr>
+  <tr>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>224</td><td>Taiwan, Province of China</td><td></td>
@@ -126,10 +129,10 @@
     <td>116</td><td>United States</td><td>Fort Lauderdale</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
@@ -174,16 +177,13 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>42</td><td>India</td><td>Hyderabad</td>
-  </tr>
-  <tr>
     <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
-    <td>41</td><td>China</td><td>Jinan</td>
+    <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>40</td><td>Romania</td><td>Tritenii De Jos</td>
+    <td>41</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>37</td><td>Singapore</td><td></td>
