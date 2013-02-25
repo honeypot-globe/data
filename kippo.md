@@ -12,7 +12,7 @@
     <td>13248</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
-    <td>3528</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>3531</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
