@@ -30,10 +30,10 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1102</td><td>Russian Federation</td><td></td>
+    <td>1130</td><td>Iceland</td><td></td>
   </tr>
   <tr>
-    <td>840</td><td>Iceland</td><td></td>
+    <td>1102</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>826</td><td>China</td><td></td>
