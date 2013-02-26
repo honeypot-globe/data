@@ -57,6 +57,9 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
+    <td>424</td><td>Germany</td><td></td>
+  </tr>
+  <tr>
     <td>400</td><td>Brazil</td><td></td>
   </tr>
   <tr>
@@ -64,9 +67,6 @@
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
-  </tr>
-  <tr>
-    <td>338</td><td>Germany</td><td></td>
   </tr>
   <tr>
     <td>328</td><td>Brazil</td><td>Nova Iguaçu</td>
