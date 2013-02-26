@@ -48,13 +48,13 @@
     <td>437</td><td>Bulgaria</td><td>Burgas</td>
   </tr>
   <tr>
+    <td>433</td><td>China</td><td>Nanjing</td>
+  </tr>
+  <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
     <td>400</td><td>Brazil</td><td></td>
-  </tr>
-  <tr>
-    <td>390</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>378</td><td>United States</td><td>Canyon Country</td>
