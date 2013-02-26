@@ -81,6 +81,9 @@
     <td>283</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
+    <td>262</td><td>United States</td><td>Las Vegas</td>
+  </tr>
+  <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
   </tr>
   <tr>
@@ -106,9 +109,6 @@
   </tr>
   <tr>
     <td>190</td><td>China</td><td>Putian</td>
-  </tr>
-  <tr>
-    <td>164</td><td>United States</td><td>Las Vegas</td>
   </tr>
   <tr>
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
