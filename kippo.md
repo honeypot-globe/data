@@ -42,6 +42,9 @@
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
+    <td>570</td><td>China</td><td>Jiaxing</td>
+  </tr>
+  <tr>
     <td>507</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
@@ -88,9 +91,6 @@
   </tr>
   <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
-  </tr>
-  <tr>
-    <td>240</td><td>China</td><td>Jiaxing</td>
   </tr>
   <tr>
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
