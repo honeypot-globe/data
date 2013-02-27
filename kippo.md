@@ -15,7 +15,7 @@
     <td>3736</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
-    <td>3003</td><td>France</td><td></td>
+    <td>3032</td><td>France</td><td></td>
   </tr>
   <tr>
     <td>2847</td><td>Mexico</td><td></td>
@@ -33,7 +33,7 @@
     <td>1651</td><td>Iceland</td><td></td>
   </tr>
   <tr>
-    <td>1104</td><td>Russian Federation</td><td></td>
+    <td>1285</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>826</td><td>China</td><td></td>
