@@ -108,10 +108,10 @@
     <td>224</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
-    <td>218</td><td>China</td><td>Guangzhou</td>
+    <td>220</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
-    <td>204</td><td>Korea, Republic of</td><td></td>
+    <td>218</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
