@@ -12,7 +12,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>10697</td><td>United States</td><td>Clifton</td>
+    <td>11231</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>4215</td><td>Korea, Republic of</td><td>Seoul</td>
