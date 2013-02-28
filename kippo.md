@@ -15,7 +15,7 @@
     <td>4215</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
-    <td>3151</td><td>United States</td><td>Clifton</td>
+    <td>3691</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>3032</td><td>France</td><td></td>
@@ -138,10 +138,10 @@
     <td>122</td><td>Philippines</td><td>Manila</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
@@ -336,19 +336,19 @@
     <td>1</td><td>Canada</td><td>Saint-jean</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
+    <td>1</td><td>Sweden</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Sweden</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td></td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Focsani</td>
+  </tr>
+  <tr>
+    <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Matawan</td>
