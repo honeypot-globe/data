@@ -36,6 +36,9 @@
     <td>1285</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
+    <td>998</td><td>United States</td><td>Clifton</td>
+  </tr>
+  <tr>
     <td>826</td><td>China</td><td></td>
   </tr>
   <tr>
@@ -46,9 +49,6 @@
   </tr>
   <tr>
     <td>507</td><td>China</td><td>Tianjin</td>
-  </tr>
-  <tr>
-    <td>458</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>442</td><td>China</td><td>Wuxi</td>
