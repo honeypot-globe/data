@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>33351</td><td>United States</td><td>Clifton</td>
+    <td>33890</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>14877</td><td>China</td><td>Beijing</td>
@@ -93,6 +93,9 @@
     <td>294</td><td>Romania</td><td></td>
   </tr>
   <tr>
+    <td>286</td><td>China</td><td>Guangzhou</td>
+  </tr>
+  <tr>
     <td>283</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
@@ -112,9 +115,6 @@
   </tr>
   <tr>
     <td>220</td><td>Korea, Republic of</td><td></td>
-  </tr>
-  <tr>
-    <td>218</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>196</td><td>China</td><td>Hebei</td>
