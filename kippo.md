@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>20406</td><td>United States</td><td>Clifton</td>
+    <td>20946</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>14795</td><td>China</td><td>Beijing</td>
@@ -138,10 +138,10 @@
     <td>122</td><td>Philippines</td><td>Manila</td>
   </tr>
   <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
@@ -153,13 +153,13 @@
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
+    <td>56</td><td>Ethiopia</td><td></td>
+  </tr>
+  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>56</td><td>Thailand</td><td>Bangkok</td>
-  </tr>
-  <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
     <td>53</td><td>China</td><td>Wuhan</td>
@@ -207,7 +207,7 @@
     <td>27</td><td>Korea, Republic of</td><td>Seocho</td>
   </tr>
   <tr>
-    <td>23</td><td>China</td><td>Jinan</td>
+    <td>24</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>22</td><td>China</td><td>Harbin</td>
@@ -222,16 +222,16 @@
     <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
-    <td>16</td><td>China</td><td>Nanchang</td>
-  </tr>
-  <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
-    <td>15</td><td>Indonesia</td><td>Jakarta</td>
+    <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>15</td><td>India</td><td>Kadapa</td>
+  </tr>
+  <tr>
+    <td>15</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
     <td>14</td><td>China</td><td>Zhengzhou</td>
@@ -267,16 +267,16 @@
     <td>6</td><td>Switzerland</td><td>Mendrisio</td>
   </tr>
   <tr>
-    <td>5</td><td>Philippines</td><td>Sampaloc</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
     <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Haidian</td>
+    <td>5</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
     <td>4</td><td>Finland</td><td>Tampere</td>
@@ -291,19 +291,19 @@
     <td>4</td><td>Japan</td><td>Tokyo</td>
   </tr>
   <tr>
-    <td>3</td><td>Romania</td><td>Campia Turzii</td>
-  </tr>
-  <tr>
     <td>3</td><td>United States</td><td>Kansas City</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Nanning</td>
   </tr>
   <tr>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
+  </tr>
+  <tr>
     <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
   </tr>
   <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
+    <td>3</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
     <td>3</td><td>Colombia</td><td>Cali</td>
@@ -357,9 +357,6 @@
     <td>1</td><td>Canada</td><td>Saint-jean</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
-  </tr>
-  <tr>
     <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
@@ -367,6 +364,9 @@
   </tr>
   <tr>
     <td>1</td><td>Germany</td><td>Breitscheid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
   </tr>
   <tr>
     <td>1</td><td>Sweden</td><td></td>
