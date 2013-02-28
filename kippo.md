@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>30653</td><td>United States</td><td>Clifton</td>
+    <td>31193</td><td>United States</td><td>Clifton</td>
   </tr>
   <tr>
     <td>14795</td><td>China</td><td>Beijing</td>
@@ -351,10 +351,10 @@
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
   </tr>
   <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
   </tr>
   <tr>
     <td>1</td><td>Spain</td><td>Madrid</td>
