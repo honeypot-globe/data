@@ -54,6 +54,9 @@
     <td>507</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
+    <td>470</td><td>Brazil</td><td></td>
+  </tr>
+  <tr>
     <td>442</td><td>China</td><td>Wuxi</td>
   </tr>
   <tr>
@@ -67,9 +70,6 @@
   </tr>
   <tr>
     <td>424</td><td>Germany</td><td></td>
-  </tr>
-  <tr>
-    <td>400</td><td>Brazil</td><td></td>
   </tr>
   <tr>
     <td>378</td><td>United States</td><td>Canyon Country</td>
