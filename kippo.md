@@ -45,6 +45,9 @@
     <td>899</td><td>China</td><td></td>
   </tr>
   <tr>
+    <td>655</td><td>China</td><td>Tianjin</td>
+  </tr>
+  <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
@@ -52,9 +55,6 @@
   </tr>
   <tr>
     <td>523</td><td>United States</td><td>Las Vegas</td>
-  </tr>
-  <tr>
-    <td>521</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
     <td>479</td><td>Brazil</td><td></td>
