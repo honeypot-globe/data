@@ -36,7 +36,7 @@
     <td>1651</td><td>Iceland</td><td></td>
   </tr>
   <tr>
-    <td>1285</td><td>Russian Federation</td><td></td>
+    <td>1288</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>899</td><td>China</td><td></td>
