@@ -240,6 +240,9 @@
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
+    <td>23</td><td>China</td><td>Zhengzhou</td>
+  </tr>
+  <tr>
     <td>20</td><td>Japan</td><td></td>
   </tr>
   <tr>
@@ -264,19 +267,16 @@
     <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
-    <td>14</td><td>China</td><td>Zhengzhou</td>
+    <td>13</td><td>Netherlands</td><td>Almere</td>
   </tr>
   <tr>
     <td>13</td><td>Russian Federation</td><td>Irkutsk</td>
   </tr>
   <tr>
-    <td>13</td><td>Netherlands</td><td>Almere</td>
+    <td>12</td><td>China</td><td>Changsha</td>
   </tr>
   <tr>
     <td>12</td><td>Belarus</td><td></td>
-  </tr>
-  <tr>
-    <td>12</td><td>China</td><td>Changsha</td>
   </tr>
   <tr>
     <td>11</td><td>United States</td><td>Hudson</td>
@@ -297,10 +297,10 @@
     <td>6</td><td>Switzerland</td><td>Mendrisio</td>
   </tr>
   <tr>
-    <td>5</td><td>United States</td><td>Tempe</td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
+    <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>5</td><td>Philippines</td><td>Sampaloc</td>
