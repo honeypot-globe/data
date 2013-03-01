@@ -156,10 +156,10 @@
     <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
-    <td>67</td><td>Canada</td><td>Lasalle</td>
+    <td>72</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
-    <td>65</td><td>China</td><td>Wuhan</td>
+    <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
     <td>57</td><td>Austria</td><td></td>
