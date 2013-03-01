@@ -39,7 +39,7 @@
     <td>1285</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
-    <td>826</td><td>China</td><td></td>
+    <td>899</td><td>China</td><td></td>
   </tr>
   <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
