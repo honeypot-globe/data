@@ -15,7 +15,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>4808</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>4907</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>3032</td><td>France</td><td></td>
@@ -75,6 +75,9 @@
     <td>378</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
+    <td>368</td><td>China</td><td>Guangzhou</td>
+  </tr>
+  <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
   </tr>
   <tr>
@@ -91,9 +94,6 @@
   </tr>
   <tr>
     <td>294</td><td>Romania</td><td></td>
-  </tr>
-  <tr>
-    <td>286</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>283</td><td>China</td><td>Shanghai</td>
