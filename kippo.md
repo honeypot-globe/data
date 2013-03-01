@@ -15,7 +15,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>6097</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>5425</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>3032</td><td>France</td><td></td>
@@ -69,7 +69,7 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
-    <td>424</td><td>Germany</td><td></td>
+    <td>421</td><td>Germany</td><td></td>
   </tr>
   <tr>
     <td>378</td><td>United States</td><td>Canyon Country</td>
@@ -144,19 +144,19 @@
     <td>99</td><td>Romania</td><td>Suceava</td>
   </tr>
   <tr>
-    <td>81</td><td>China</td><td>Xian</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>72</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
-    <td>72</td><td>China</td><td>Wuhan</td>
+    <td>70</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>67</td><td>Canada</td><td>Lasalle</td>
@@ -165,43 +165,40 @@
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Thailand</td><td>Bangkok</td>
-  </tr>
-  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
-    <td>50</td><td>Italy</td><td></td>
+    <td>56</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>50</td><td>Italy</td><td></td>
   </tr>
   <tr>
     <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
+    <td>49</td><td>China</td><td>Zibo</td>
+  </tr>
+  <tr>
     <td>48</td><td>China</td><td>Chongqing</td>
-  </tr>
-  <tr>
-    <td>45</td><td>Australia</td><td></td>
-  </tr>
-  <tr>
-    <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
     <td>44</td><td>China</td><td>Harbin</td>
   </tr>
   <tr>
+    <td>44</td><td>Thailand</td><td>Surin</td>
+  </tr>
+  <tr>
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Jinan</td>
+    <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Haidian</td>
+    <td>42</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>37</td><td>Singapore</td><td></td>
@@ -219,19 +216,16 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>29</td><td>Thailand</td><td></td>
+    <td>29</td><td>Spain</td><td></td>
   </tr>
   <tr>
-    <td>29</td><td>Spain</td><td></td>
+    <td>29</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>27</td><td>Korea, Republic of</td><td>Seocho</td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
-  </tr>
-  <tr>
-    <td>20</td><td>Japan</td><td></td>
   </tr>
   <tr>
     <td>19</td><td>United Kingdom</td><td></td>
@@ -270,9 +264,6 @@
     <td>12</td><td>Belarus</td><td></td>
   </tr>
   <tr>
-    <td>11</td><td>United States</td><td>Hudson</td>
-  </tr>
-  <tr>
     <td>10</td><td>China</td><td>Suzhou</td>
   </tr>
   <tr>
@@ -291,13 +282,10 @@
     <td>5</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
-    <td>5</td><td>China</td><td>Jiamusi</td>
-  </tr>
-  <tr>
     <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>4</td><td>Viet Nam</td><td></td>
+    <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>4</td><td>Hong Kong</td><td>Central District</td>
@@ -306,10 +294,16 @@
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
+    <td>4</td><td>Viet Nam</td><td></td>
+  </tr>
+  <tr>
     <td>4</td><td>Japan</td><td>Tokyo</td>
   </tr>
   <tr>
-    <td>3</td><td>Colombia</td><td>Cali</td>
+    <td>3</td><td>China</td><td>Zhangzhou</td>
+  </tr>
+  <tr>
+    <td>3</td><td>China</td><td>Zhongshan</td>
   </tr>
   <tr>
     <td>3</td><td>China</td><td>Nanning</td>
@@ -318,19 +312,10 @@
     <td>3</td><td>United States</td><td>Kansas City</td>
   </tr>
   <tr>
+    <td>3</td><td>Colombia</td><td>Cali</td>
+  </tr>
+  <tr>
     <td>3</td><td>Romania</td><td>Campia Turzii</td>
-  </tr>
-  <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
-  </tr>
-  <tr>
-    <td>3</td><td>China</td><td>Zhongshan</td>
-  </tr>
-  <tr>
-    <td>3</td><td>China</td><td>Zhangzhou</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
     <td>2</td><td>China</td><td>Chengdu</td>
@@ -339,55 +324,28 @@
     <td>2</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
+    <td>2</td><td>Germany</td><td>Wetzlar</td>
+  </tr>
+  <tr>
     <td>2</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>1</td><td>Hungary</td><td></td>
+    <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>France</td><td>Paris</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Turnu</td>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Las Vegas</td>
   </tr>
   <tr>
-    <td>1</td><td>Italy</td><td>Rome</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Focsani</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Constanta</td>
-  </tr>
-  <tr>
-    <td>1</td><td>United States</td><td>Allentown</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Germany</td><td>Breitscheid</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Sweden</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>Canada</td><td>Saint-jean</td>
+    <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Bucharest</td>
   </tr>
   <tr>
-    <td>1</td><td>United States</td><td></td>
-  </tr>
-  <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
-  </tr>
-  <tr>
-    <td>1</td><td>Romania</td><td>Galati</td>
+    <td>1</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Matawan</td>
@@ -399,6 +357,36 @@
     <td>1</td><td>Romania</td><td>Campina</td>
   </tr>
   <tr>
-    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
+    <td>1</td><td>United States</td><td>Allentown</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Turnu</td>
+  </tr>
+  <tr>
+    <td>1</td><td>France</td><td>Paris</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Slatina</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Vinica</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Canada</td><td>Saint-jean</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Romania</td><td>Focsani</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Sweden</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Germany</td><td>Breitscheid</td>
+  </tr>
+  <tr>
+    <td>1</td><td>Japan</td><td></td>
+  </tr>
+  <tr>
+    <td>1</td><td>Italy</td><td>Rome</td>
   </tr>
 </table>
