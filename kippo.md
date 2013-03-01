@@ -228,6 +228,9 @@
     <td>27</td><td>Korea, Republic of</td><td>Seocho</td>
   </tr>
   <tr>
+    <td>26</td><td>India</td><td>Mumbai</td>
+  </tr>
+  <tr>
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
@@ -258,19 +261,16 @@
     <td>14</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
-    <td>13</td><td>Russian Federation</td><td>Irkutsk</td>
-  </tr>
-  <tr>
-    <td>13</td><td>India</td><td>Mumbai</td>
-  </tr>
-  <tr>
     <td>13</td><td>Netherlands</td><td>Almere</td>
   </tr>
   <tr>
-    <td>12</td><td>China</td><td>Changsha</td>
+    <td>13</td><td>Russian Federation</td><td>Irkutsk</td>
   </tr>
   <tr>
     <td>12</td><td>Belarus</td><td></td>
+  </tr>
+  <tr>
+    <td>12</td><td>China</td><td>Changsha</td>
   </tr>
   <tr>
     <td>11</td><td>United States</td><td>Hudson</td>
@@ -291,25 +291,25 @@
     <td>6</td><td>Switzerland</td><td>Mendrisio</td>
   </tr>
   <tr>
-    <td>5</td><td>Philippines</td><td>Sampaloc</td>
-  </tr>
-  <tr>
     <td>5</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>5</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>4</td><td>Viet Nam</td><td></td>
+    <td>5</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
     <td>4</td><td>Taiwan, Province of China</td><td>Taipei</td>
   </tr>
   <tr>
+    <td>4</td><td>Hong Kong</td><td>Central District</td>
+  </tr>
+  <tr>
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
-    <td>4</td><td>Hong Kong</td><td>Central District</td>
+    <td>4</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
     <td>4</td><td>Japan</td><td>Tokyo</td>
