@@ -144,10 +144,10 @@
     <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
-    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
+    <td>81</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
-    <td>76</td><td>China</td><td>Xian</td>
+    <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
