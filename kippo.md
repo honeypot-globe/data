@@ -144,13 +144,13 @@
     <td>99</td><td>Romania</td><td>Suceava</td>
   </tr>
   <tr>
+    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
+  </tr>
+  <tr>
     <td>81</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
     <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
-  </tr>
-  <tr>
-    <td>81</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
@@ -159,28 +159,28 @@
     <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
+    <td>65</td><td>China</td><td>Wuhan</td>
+  </tr>
+  <tr>
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
     <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Thailand</td><td>Bangkok</td>
-  </tr>
-  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
-    <td>53</td><td>China</td><td>Wuhan</td>
+    <td>56</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
     <td>50</td><td>Italy</td><td></td>
   </tr>
   <tr>
-    <td>49</td><td>United States</td><td>Englewood</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
     <td>48</td><td>China</td><td>Chongqing</td>
@@ -192,13 +192,13 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Jinan</td>
+    <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Haidian</td>
+    <td>42</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>37</td><td>Singapore</td><td></td>
