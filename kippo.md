@@ -90,6 +90,9 @@
     <td>328</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
+    <td>328</td><td>China</td><td>Shanghai</td>
+  </tr>
+  <tr>
     <td>327</td><td>United States</td><td>Buffalo</td>
   </tr>
   <tr>
@@ -97,9 +100,6 @@
   </tr>
   <tr>
     <td>294</td><td>Romania</td><td></td>
-  </tr>
-  <tr>
-    <td>283</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
     <td>244</td><td>United States</td><td>Manassas</td>
