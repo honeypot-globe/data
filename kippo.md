@@ -15,7 +15,7 @@
     <td>14347</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>7916</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>8016</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>3032</td><td>France</td><td></td>
@@ -66,7 +66,7 @@
     <td>437</td><td>Bulgaria</td><td>Burgas</td>
   </tr>
   <tr>
-    <td>433</td><td>China</td><td>Nanjing</td>
+    <td>434</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
