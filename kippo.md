@@ -120,13 +120,13 @@
     <td>687</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
+    <td>646</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
     <td>614</td><td>Singapore</td><td></td>
-  </tr>
-  <tr>
-    <td>582</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>580</td><td>United States</td><td>Phoenix</td>
