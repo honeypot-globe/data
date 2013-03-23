@@ -213,10 +213,10 @@
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
   </tr>
   <tr>
-    <td>174</td><td>China</td><td>Changsha</td>
+    <td>179</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
-    <td>174</td><td>China</td><td>Xian</td>
+    <td>174</td><td>China</td><td>Changsha</td>
   </tr>
   <tr>
     <td>173</td><td>China</td><td>Ürümqi</td>
@@ -288,13 +288,13 @@
     <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
-  </tr>
-  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>56</td><td>China</td><td>Chongqing</td>
+  </tr>
+  <tr>
+    <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
     <td>50</td><td>Italy</td><td></td>
@@ -315,16 +315,16 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Haidian</td>
-  </tr>
-  <tr>
     <td>42</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>41</td><td>India</td><td>Puri</td>
+    <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
     <td>41</td><td>Fiji</td><td>Suva</td>
+  </tr>
+  <tr>
+    <td>41</td><td>India</td><td>Puri</td>
   </tr>
   <tr>
     <td>38</td><td>Nigeria</td><td>Abuja</td>
@@ -348,10 +348,10 @@
     <td>28</td><td>Argentina</td><td>Buenos Aires</td>
   </tr>
   <tr>
-    <td>27</td><td>Bulgaria</td><td>Vratsa</td>
+    <td>27</td><td>Korea, Republic of</td><td>Seocho</td>
   </tr>
   <tr>
-    <td>27</td><td>Korea, Republic of</td><td>Seocho</td>
+    <td>27</td><td>Bulgaria</td><td>Vratsa</td>
   </tr>
   <tr>
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
