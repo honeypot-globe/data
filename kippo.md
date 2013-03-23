@@ -177,13 +177,13 @@
     <td>298</td><td>Romania</td><td></td>
   </tr>
   <tr>
-    <td>294</td><td>Spain</td><td></td>
+    <td>295</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>294</td><td>China</td><td>Changzhi</td>
   </tr>
   <tr>
-    <td>289</td><td>China</td><td>Wuhan</td>
+    <td>294</td><td>Spain</td><td></td>
   </tr>
   <tr>
     <td>285</td><td>China</td><td>Chengdu</td>
