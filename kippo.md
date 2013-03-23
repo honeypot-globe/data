@@ -87,10 +87,10 @@
     <td>988</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
-    <td>914</td><td>United States</td><td>Cedar Falls</td>
+    <td>917</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>910</td><td>United States</td><td>Tempe</td>
+    <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
