@@ -90,6 +90,9 @@
     <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
+    <td>910</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
   </tr>
   <tr>
@@ -112,9 +115,6 @@
   </tr>
   <tr>
     <td>780</td><td>China</td><td>Putian</td>
-  </tr>
-  <tr>
-    <td>778</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>724</td><td>China</td><td>Shanghai</td>
@@ -198,16 +198,16 @@
     <td>243</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
-    <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
-  </tr>
-  <tr>
     <td>235</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
     <td>228</td><td>Malaysia</td><td></td>
+  </tr>
+  <tr>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
