@@ -84,10 +84,10 @@
     <td>1057</td><td>India</td><td>Pudukkottai</td>
   </tr>
   <tr>
-    <td>988</td><td>China</td><td>Nanjing</td>
+    <td>1043</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>917</td><td>United States</td><td>Tempe</td>
+    <td>988</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>914</td><td>United States</td><td>Cedar Falls</td>
