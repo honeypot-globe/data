@@ -171,13 +171,13 @@
     <td>315</td><td>Djibouti</td><td></td>
   </tr>
   <tr>
+    <td>308</td><td>China</td><td>Wuhan</td>
+  </tr>
+  <tr>
     <td>307</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>298</td><td>Romania</td><td></td>
-  </tr>
-  <tr>
-    <td>295</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>294</td><td>China</td><td>Changzhi</td>
@@ -201,10 +201,10 @@
     <td>243</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
-    <td>235</td><td>United Kingdom</td><td></td>
+    <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
+    <td>235</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
     <td>228</td><td>Panama</td><td></td>
