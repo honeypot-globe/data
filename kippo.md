@@ -66,7 +66,7 @@
     <td>1367</td><td>Iran, Islamic Republic of</td><td></td>
   </tr>
   <tr>
-    <td>1297</td><td>China</td><td>Guangzhou</td>
+    <td>1304</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>1236</td><td>China</td><td>Zhengzhou</td>
