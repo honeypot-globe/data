@@ -81,10 +81,10 @@
     <td>1138</td><td>Netherlands</td><td>Amsterdam</td>
   </tr>
   <tr>
-    <td>1091</td><td>China</td><td>Nanjing</td>
+    <td>1091</td><td>Ukraine</td><td>Kiev</td>
   </tr>
   <tr>
-    <td>1091</td><td>Ukraine</td><td>Kiev</td>
+    <td>1091</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>1057</td><td>India</td><td>Pudukkottai</td>
@@ -156,10 +156,10 @@
     <td>378</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
-    <td>359</td><td>United States</td><td>Buffalo</td>
+    <td>359</td><td>India</td><td>Bangalore</td>
   </tr>
   <tr>
-    <td>359</td><td>India</td><td>Bangalore</td>
+    <td>359</td><td>United States</td><td>Buffalo</td>
   </tr>
   <tr>
     <td>328</td><td>Brazil</td><td>Nova Iguaçu</td>
@@ -237,6 +237,9 @@
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
+    <td>160</td><td>Portugal</td><td>Palmela</td>
+  </tr>
+  <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
@@ -262,9 +265,6 @@
   </tr>
   <tr>
     <td>79</td><td>United States</td><td>Waltham</td>
-  </tr>
-  <tr>
-    <td>77</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
     <td>72</td><td>Netherlands</td><td></td>
