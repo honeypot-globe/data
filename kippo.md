@@ -51,10 +51,10 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
-    <td>1768</td><td>United States</td><td>Dallas</td>
+    <td>1922</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>1747</td><td>United States</td><td>Tempe</td>
+    <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
     <td>1651</td><td>Iceland</td><td></td>
@@ -195,13 +195,13 @@
     <td>281</td><td>United States</td><td>San Antonio</td>
   </tr>
   <tr>
+    <td>261</td><td>China</td><td>Hebei</td>
+  </tr>
+  <tr>
     <td>248</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
     <td>247</td><td>United States</td><td>Manassas</td>
-  </tr>
-  <tr>
-    <td>243</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
