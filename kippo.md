@@ -54,13 +54,13 @@
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
+    <td>1669</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>1651</td><td>Iceland</td><td></td>
   </tr>
   <tr>
     <td>1644</td><td>China</td><td></td>
-  </tr>
-  <tr>
-    <td>1572</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
