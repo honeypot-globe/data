@@ -66,13 +66,13 @@
     <td>1367</td><td>Iran, Islamic Republic of</td><td></td>
   </tr>
   <tr>
+    <td>1307</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>1304</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>1236</td><td>China</td><td>Zhengzhou</td>
-  </tr>
-  <tr>
-    <td>1180</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>1143</td><td>China</td><td>Jiaxing</td>
