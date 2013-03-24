@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>59877</td><td>China</td><td>Beijing</td>
+    <td>59937</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -72,6 +72,9 @@
     <td>1236</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
+    <td>1175</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>1143</td><td>China</td><td>Jiaxing</td>
   </tr>
   <tr>
@@ -82,9 +85,6 @@
   </tr>
   <tr>
     <td>1057</td><td>India</td><td>Pudukkottai</td>
-  </tr>
-  <tr>
-    <td>1043</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>988</td><td>China</td><td>Nanjing</td>
