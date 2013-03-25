@@ -90,10 +90,10 @@
     <td>1057</td><td>India</td><td>Pudukkottai</td>
   </tr>
   <tr>
-    <td>914</td><td>United States</td><td>Cedar Falls</td>
+    <td>1006</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
-    <td>900</td><td>China</td><td>Tianjin</td>
+    <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
