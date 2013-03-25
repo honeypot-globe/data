@@ -162,6 +162,9 @@
     <td>359</td><td>India</td><td>Bangalore</td>
   </tr>
   <tr>
+    <td>354</td><td>Canada</td><td>Montreal</td>
+  </tr>
+  <tr>
     <td>328</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
@@ -175,9 +178,6 @@
   </tr>
   <tr>
     <td>308</td><td>China</td><td>Wuhan</td>
-  </tr>
-  <tr>
-    <td>307</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>298</td><td>Romania</td><td></td>
