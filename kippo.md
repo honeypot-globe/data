@@ -93,7 +93,7 @@
     <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
-    <td>889</td><td>China</td><td>Tianjin</td>
+    <td>900</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
