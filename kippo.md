@@ -267,13 +267,13 @@
     <td>86</td><td>Thailand</td><td></td>
   </tr>
   <tr>
+    <td>85</td><td>Netherlands</td><td></td>
+  </tr>
+  <tr>
     <td>81</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>79</td><td>United States</td><td>Waltham</td>
-  </tr>
-  <tr>
-    <td>72</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
     <td>69</td><td>Thailand</td><td>Bangkok</td>
