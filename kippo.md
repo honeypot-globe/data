@@ -42,13 +42,13 @@
     <td>2723</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
+    <td>2627</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
   </tr>
   <tr>
     <td>2454</td><td>China</td><td>Jinan</td>
-  </tr>
-  <tr>
-    <td>2450</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>2069</td><td>United States</td><td>Las Cruces</td>
