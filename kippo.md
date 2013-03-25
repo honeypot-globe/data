@@ -54,10 +54,10 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
-    <td>1768</td><td>United States</td><td>Dallas</td>
+    <td>1807</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
-    <td>1687</td><td>China</td><td>Guangzhou</td>
+    <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
     <td>1651</td><td>Iceland</td><td></td>
