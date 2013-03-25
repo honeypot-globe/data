@@ -150,13 +150,13 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
+    <td>400</td><td>Canada</td><td>Montreal</td>
+  </tr>
+  <tr>
     <td>400</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>378</td><td>United States</td><td>Canyon Country</td>
-  </tr>
-  <tr>
-    <td>373</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>359</td><td>India</td><td>Bangalore</td>
