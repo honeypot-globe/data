@@ -462,25 +462,25 @@
     <td>8</td><td>Colombia</td><td>Bogotá</td>
   </tr>
   <tr>
-    <td>7</td><td>United States</td><td>Secaucus</td>
-  </tr>
-  <tr>
-    <td>7</td><td>China</td><td>Nanning</td>
+    <td>8</td><td>Lithuania</td><td></td>
   </tr>
   <tr>
     <td>7</td><td>China</td><td>Lanzhou</td>
   </tr>
   <tr>
-    <td>6</td><td>Switzerland</td><td>Mendrisio</td>
+    <td>7</td><td>China</td><td>Nanning</td>
+  </tr>
+  <tr>
+    <td>7</td><td>United States</td><td>Secaucus</td>
   </tr>
   <tr>
     <td>6</td><td>Finland</td><td></td>
   </tr>
   <tr>
-    <td>6</td><td>United States</td><td>Columbus</td>
+    <td>6</td><td>Switzerland</td><td>Mendrisio</td>
   </tr>
   <tr>
-    <td>6</td><td>Lithuania</td><td></td>
+    <td>6</td><td>United States</td><td>Columbus</td>
   </tr>
   <tr>
     <td>6</td><td>United States</td><td>Scottsdale</td>
