@@ -48,10 +48,10 @@
     <td>2454</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>2069</td><td>United States</td><td>Las Cruces</td>
+    <td>2097</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>2046</td><td>United States</td><td>Tempe</td>
+    <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
