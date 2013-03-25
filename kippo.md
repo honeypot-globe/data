@@ -39,7 +39,7 @@
     <td>2840</td><td>Korea, Republic of</td><td>Gwangmyeong</td>
   </tr>
   <tr>
-    <td>2551</td><td>China</td><td>Hangzhou</td>
+    <td>2574</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
