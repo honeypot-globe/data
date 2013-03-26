@@ -249,7 +249,7 @@
     <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
-    <td>138</td><td>Lithuania</td><td>Vilnius</td>
+    <td>146</td><td>Lithuania</td><td>Vilnius</td>
   </tr>
   <tr>
     <td>130</td><td>Indonesia</td><td>Jakarta</td>
