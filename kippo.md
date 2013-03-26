@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>65052</td><td>China</td><td>Beijing</td>
+    <td>65054</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -105,6 +105,9 @@
     <td>868</td><td>United States</td><td>Las Vegas</td>
   </tr>
   <tr>
+    <td>850</td><td>China</td><td>Putian</td>
+  </tr>
+  <tr>
     <td>849</td><td>Poland</td><td>Warsaw</td>
   </tr>
   <tr>
@@ -112,9 +115,6 @@
   </tr>
   <tr>
     <td>784</td><td>Korea, Republic of</td><td></td>
-  </tr>
-  <tr>
-    <td>780</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
     <td>747</td><td>China</td><td>Shanghai</td>
