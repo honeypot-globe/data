@@ -543,6 +543,9 @@
     <td>2</td><td>Germany</td><td>Wetzlar</td>
   </tr>
   <tr>
+    <td>2</td><td>Czech Republic</td><td></td>
+  </tr>
+  <tr>
     <td>2</td><td>India</td><td>Delhi</td>
   </tr>
   <tr>
@@ -564,9 +567,6 @@
     <td>1</td><td>United States</td><td></td>
   </tr>
   <tr>
-    <td>1</td><td>Philippines</td><td>Imus</td>
-  </tr>
-  <tr>
     <td>1</td><td>Belarus</td><td>Minsk</td>
   </tr>
   <tr>
@@ -582,37 +582,37 @@
     <td>1</td><td>Romania</td><td>Campulung</td>
   </tr>
   <tr>
-    <td>1</td><td>France</td><td>Paris</td>
+    <td>1</td><td>Romania</td><td>Turnu</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Allentown</td>
   </tr>
   <tr>
-    <td>1</td><td>Italy</td><td>Rome</td>
+    <td>1</td><td>France</td><td>Paris</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Las Vegas</td>
   </tr>
   <tr>
-    <td>1</td><td>Hungary</td><td>Budapest</td>
+    <td>1</td><td>Italy</td><td>Rome</td>
   </tr>
   <tr>
     <td>1</td><td>Italy</td><td>Oliena</td>
   </tr>
   <tr>
-    <td>1</td><td>Finland</td><td>Säkylä</td>
+    <td>1</td><td>Hungary</td><td>Budapest</td>
   </tr>
   <tr>
     <td>1</td><td>Macedonia, the Former Yugoslav Republic of</td><td>Gevgelija</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Turnu</td>
+    <td>1</td><td>Philippines</td><td>Imus</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Galati</td>
   </tr>
   <tr>
-    <td>1</td><td>Romania</td><td>Slatina</td>
+    <td>1</td><td>Finland</td><td>Säkylä</td>
   </tr>
   <tr>
     <td>1</td><td>Hong Kong</td><td></td>
@@ -627,10 +627,10 @@
     <td>1</td><td>United States</td><td>Garden City</td>
   </tr>
   <tr>
-    <td>1</td><td>Italy</td><td>Vicenza</td>
+    <td>1</td><td>Romania</td><td>Slatina</td>
   </tr>
   <tr>
-    <td>1</td><td>Czech Republic</td><td></td>
+    <td>1</td><td>Italy</td><td>Vicenza</td>
   </tr>
   <tr>
     <td>1</td><td>United States</td><td>Culver City</td>
