@@ -39,10 +39,10 @@
     <td>2840</td><td>Korea, Republic of</td><td>Gwangmyeong</td>
   </tr>
   <tr>
-    <td>2723</td><td>China</td><td>Hangzhou</td>
+    <td>2804</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>2662</td><td>United States</td><td>Tempe</td>
+    <td>2723</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
