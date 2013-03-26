@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>65054</td><td>China</td><td>Beijing</td>
+    <td>65149</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -54,7 +54,7 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
-    <td>1867</td><td>Iran, Islamic Republic of</td><td></td>
+    <td>2050</td><td>Iran, Islamic Republic of</td><td></td>
   </tr>
   <tr>
     <td>1807</td><td>China</td><td>Guangzhou</td>
