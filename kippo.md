@@ -156,6 +156,9 @@
     <td>400</td><td>Turkey</td><td></td>
   </tr>
   <tr>
+    <td>396</td><td>United Kingdom</td><td></td>
+  </tr>
+  <tr>
     <td>378</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
@@ -172,9 +175,6 @@
   </tr>
   <tr>
     <td>315</td><td>Djibouti</td><td></td>
-  </tr>
-  <tr>
-    <td>315</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
     <td>308</td><td>China</td><td>Wuhan</td>
