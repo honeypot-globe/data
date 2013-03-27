@@ -15,7 +15,7 @@
     <td>18787</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>11528</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>11532</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>8202</td><td>France</td><td></td>
@@ -393,6 +393,9 @@
     <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
+    <td>18</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
     <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
@@ -406,9 +409,6 @@
   </tr>
   <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
-  </tr>
-  <tr>
-    <td>16</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>16</td><td>Peru</td><td>Lima</td>
