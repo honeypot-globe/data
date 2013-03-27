@@ -372,22 +372,22 @@
     <td>28</td><td>Argentina</td><td>Buenos Aires</td>
   </tr>
   <tr>
+    <td>28</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
     <td>27</td><td>Bulgaria</td><td>Vratsa</td>
   </tr>
   <tr>
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
   </tr>
   <tr>
-    <td>26</td><td>Poland</td><td>Debica</td>
-  </tr>
-  <tr>
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
-    <td>21</td><td>Japan</td><td></td>
+    <td>21</td><td>United States</td><td>Absecon</td>
   </tr>
   <tr>
-    <td>21</td><td>United States</td><td>Absecon</td>
+    <td>21</td><td>Japan</td><td></td>
   </tr>
   <tr>
     <td>20</td><td>Europe</td><td></td>
