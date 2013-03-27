@@ -15,7 +15,7 @@
     <td>18787</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>11520</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>11528</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>8202</td><td>France</td><td></td>
