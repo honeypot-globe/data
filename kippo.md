@@ -21,7 +21,7 @@
     <td>8202</td><td>France</td><td></td>
   </tr>
   <tr>
-    <td>4062</td><td>Germany</td><td></td>
+    <td>4086</td><td>Germany</td><td></td>
   </tr>
   <tr>
     <td>3891</td><td>United States</td><td>Scranton</td>
@@ -381,13 +381,13 @@
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
-    <td>21</td><td>United States</td><td>Absecon</td>
+    <td>22</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>21</td><td>Japan</td><td></td>
   </tr>
   <tr>
-    <td>20</td><td>Poland</td><td>Debica</td>
+    <td>21</td><td>United States</td><td>Absecon</td>
   </tr>
   <tr>
     <td>20</td><td>Europe</td><td></td>
