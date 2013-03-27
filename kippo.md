@@ -105,6 +105,9 @@
     <td>868</td><td>United States</td><td>Las Vegas</td>
   </tr>
   <tr>
+    <td>866</td><td>Turkey</td><td></td>
+  </tr>
+  <tr>
     <td>850</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
@@ -132,7 +135,7 @@
     <td>580</td><td>United States</td><td>Phoenix</td>
   </tr>
   <tr>
-    <td>574</td><td>Turkey</td><td></td>
+    <td>566</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>508</td><td>Sweden</td><td>Stockholm</td>
@@ -151,9 +154,6 @@
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
-  </tr>
-  <tr>
-    <td>405</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>396</td><td>United Kingdom</td><td></td>
