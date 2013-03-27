@@ -408,6 +408,9 @@
     <td>16</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
+    <td>16</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
     <td>16</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
@@ -418,9 +421,6 @@
   </tr>
   <tr>
     <td>14</td><td>Australia</td><td>Point Cook</td>
-  </tr>
-  <tr>
-    <td>14</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>14</td><td>India</td><td>Chennai</td>
