@@ -252,7 +252,7 @@
     <td>146</td><td>Lithuania</td><td>Vilnius</td>
   </tr>
   <tr>
-    <td>130</td><td>Indonesia</td><td>Jakarta</td>
+    <td>133</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
