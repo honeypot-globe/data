@@ -96,6 +96,9 @@
     <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
+    <td>886</td><td>Turkey</td><td></td>
+  </tr>
+  <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
   </tr>
   <tr>
@@ -103,9 +106,6 @@
   </tr>
   <tr>
     <td>868</td><td>United States</td><td>Las Vegas</td>
-  </tr>
-  <tr>
-    <td>866</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>850</td><td>China</td><td>Putian</td>
@@ -126,6 +126,9 @@
     <td>687</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
+    <td>683</td><td>Canada</td><td>Montreal</td>
+  </tr>
+  <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
@@ -133,9 +136,6 @@
   </tr>
   <tr>
     <td>580</td><td>United States</td><td>Phoenix</td>
-  </tr>
-  <tr>
-    <td>566</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
     <td>508</td><td>Sweden</td><td>Stockholm</td>
@@ -183,10 +183,10 @@
     <td>298</td><td>Romania</td><td></td>
   </tr>
   <tr>
-    <td>294</td><td>Spain</td><td></td>
+    <td>294</td><td>China</td><td>Changzhi</td>
   </tr>
   <tr>
-    <td>294</td><td>China</td><td>Changzhi</td>
+    <td>294</td><td>Spain</td><td></td>
   </tr>
   <tr>
     <td>287</td><td>India</td><td>Hyderabad</td>
@@ -210,10 +210,10 @@
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
@@ -240,10 +240,10 @@
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
+    <td>160</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
-    <td>160</td><td>Portugal</td><td>Palmela</td>
+    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
