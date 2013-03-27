@@ -168,13 +168,13 @@
     <td>359</td><td>United States</td><td>Buffalo</td>
   </tr>
   <tr>
+    <td>332</td><td>China</td><td>Wuhan</td>
+  </tr>
+  <tr>
     <td>328</td><td>Brazil</td><td>Nova Iguaçu</td>
   </tr>
   <tr>
     <td>323</td><td>China</td><td>Fushun</td>
-  </tr>
-  <tr>
-    <td>320</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>315</td><td>Djibouti</td><td></td>
