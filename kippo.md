@@ -81,7 +81,7 @@
     <td>1138</td><td>Netherlands</td><td>Amsterdam</td>
   </tr>
   <tr>
-    <td>1107</td><td>China</td><td>Nanjing</td>
+    <td>1112</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>1091</td><td>Ukraine</td><td>Kiev</td>
@@ -351,7 +351,7 @@
     <td>38</td><td>Nigeria</td><td>Abuja</td>
   </tr>
   <tr>
-    <td>36</td><td>Poland</td><td>Debica</td>
+    <td>38</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>36</td><td>China</td><td>Shangxi</td>
