@@ -30,10 +30,10 @@
     <td>3844</td><td>United States</td><td>Anaheim</td>
   </tr>
   <tr>
-    <td>3647</td><td>Russian Federation</td><td></td>
+    <td>3747</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
-    <td>3570</td><td>United States</td><td>Tempe</td>
+    <td>3647</td><td>Russian Federation</td><td></td>
   </tr>
   <tr>
     <td>2848</td><td>Mexico</td><td></td>
@@ -402,13 +402,13 @@
     <td>17</td><td>United States</td><td>Springboro</td>
   </tr>
   <tr>
+    <td>16</td><td>China</td><td>Nanchang</td>
+  </tr>
+  <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
     <td>16</td><td>Peru</td><td>Lima</td>
-  </tr>
-  <tr>
-    <td>16</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>15</td><td>India</td><td>Kadapa</td>
@@ -417,22 +417,25 @@
     <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
-    <td>14</td><td>India</td><td>Chennai</td>
+    <td>14</td><td>United States</td><td>Tampa</td>
   </tr>
   <tr>
-    <td>14</td><td>United States</td><td>Tampa</td>
+    <td>14</td><td>India</td><td>Chennai</td>
   </tr>
   <tr>
     <td>13</td><td>China</td><td>Wenzhou</td>
   </tr>
   <tr>
-    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
+    <td>13</td><td>Netherlands</td><td>Almere</td>
   </tr>
   <tr>
     <td>13</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
-    <td>13</td><td>Netherlands</td><td>Almere</td>
+    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
+  </tr>
+  <tr>
+    <td>12</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>12</td><td>China</td><td>Shenyang</td>
@@ -447,19 +450,16 @@
     <td>10</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>10</td><td>Poland</td><td>Debica</td>
-  </tr>
-  <tr>
-    <td>9</td><td>China</td><td>Panan</td>
-  </tr>
-  <tr>
-    <td>9</td><td>China</td><td>Zhongshan</td>
+    <td>9</td><td>Slovenia</td><td>Maribor</td>
   </tr>
   <tr>
     <td>9</td><td>China</td><td>Henan</td>
   </tr>
   <tr>
-    <td>9</td><td>Slovenia</td><td>Maribor</td>
+    <td>9</td><td>China</td><td>Zhongshan</td>
+  </tr>
+  <tr>
+    <td>9</td><td>China</td><td>Panan</td>
   </tr>
   <tr>
     <td>8</td><td>Colombia</td><td>Bogotá</td>
