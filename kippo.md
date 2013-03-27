@@ -24,13 +24,13 @@
     <td>4086</td><td>Germany</td><td></td>
   </tr>
   <tr>
+    <td>3924</td><td>United States</td><td>Tempe</td>
+  </tr>
+  <tr>
     <td>3891</td><td>United States</td><td>Scranton</td>
   </tr>
   <tr>
     <td>3844</td><td>United States</td><td>Anaheim</td>
-  </tr>
-  <tr>
-    <td>3747</td><td>United States</td><td>Tempe</td>
   </tr>
   <tr>
     <td>3648</td><td>Russian Federation</td><td></td>
