@@ -378,10 +378,10 @@
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
   </tr>
   <tr>
-    <td>24</td><td>United States</td><td>Miami</td>
+    <td>24</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>22</td><td>Poland</td><td>Debica</td>
+    <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
     <td>21</td><td>Japan</td><td></td>
