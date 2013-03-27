@@ -351,13 +351,13 @@
     <td>38</td><td>Nigeria</td><td>Abuja</td>
   </tr>
   <tr>
+    <td>36</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
     <td>36</td><td>China</td><td>Shangxi</td>
   </tr>
   <tr>
     <td>34</td><td>United States</td><td>Yonkers</td>
-  </tr>
-  <tr>
-    <td>34</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>33</td><td>Germany</td><td>Germering</td>
