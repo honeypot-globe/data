@@ -396,10 +396,10 @@
     <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
-    <td>17</td><td>Bangladesh</td><td>Dhaka</td>
+    <td>17</td><td>United States</td><td>Springboro</td>
   </tr>
   <tr>
-    <td>17</td><td>United States</td><td>Springboro</td>
+    <td>17</td><td>Bangladesh</td><td>Dhaka</td>
   </tr>
   <tr>
     <td>16</td><td>China</td><td>Nanchang</td>
@@ -414,10 +414,13 @@
     <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
+    <td>14</td><td>United States</td><td>Tampa</td>
+  </tr>
+  <tr>
     <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
-    <td>14</td><td>United States</td><td>Tampa</td>
+    <td>14</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>14</td><td>India</td><td>Chennai</td>
@@ -433,9 +436,6 @@
   </tr>
   <tr>
     <td>13</td><td>Costa Rica</td><td>Alajuela</td>
-  </tr>
-  <tr>
-    <td>12</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>12</td><td>China</td><td>Shenyang</td>
