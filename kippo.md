@@ -498,7 +498,7 @@
     <td>5</td><td>Philippines</td><td>Sampaloc</td>
   </tr>
   <tr>
-    <td>4</td><td>China</td><td>Weifang</td>
+    <td>4</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>4</td><td>Brazil</td><td>Fortaleza</td>
@@ -513,22 +513,22 @@
     <td>4</td><td>Finland</td><td>Tampere</td>
   </tr>
   <tr>
+    <td>4</td><td>China</td><td>Weifang</td>
+  </tr>
+  <tr>
     <td>4</td><td>Indonesia</td><td>Mega</td>
   </tr>
   <tr>
     <td>4</td><td>Hong Kong</td><td>Central District</td>
   </tr>
   <tr>
-    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
-  </tr>
-  <tr>
     <td>3</td><td>Colombia</td><td>Cali</td>
   </tr>
   <tr>
-    <td>3</td><td>Romania</td><td>Campia Turzii</td>
+    <td>3</td><td>United States</td><td>Kansas City</td>
   </tr>
   <tr>
-    <td>3</td><td>United States</td><td>Kansas City</td>
+    <td>3</td><td>Romania</td><td>Campia Turzii</td>
   </tr>
   <tr>
     <td>3</td><td>United States</td><td>Englewood</td>
@@ -540,13 +540,13 @@
     <td>3</td><td>China</td><td>Zhangzhou</td>
   </tr>
   <tr>
+    <td>3</td><td>Korea, Republic of</td><td>Suwon</td>
+  </tr>
+  <tr>
     <td>2</td><td>Macedonia, the Former Yugoslav Republic of</td><td></td>
   </tr>
   <tr>
     <td>2</td><td>Hungary</td><td></td>
-  </tr>
-  <tr>
-    <td>2</td><td>India</td><td>Delhi</td>
   </tr>
   <tr>
     <td>2</td><td>Czech Republic</td><td></td>
@@ -558,16 +558,16 @@
     <td>2</td><td>Romania</td><td>Oradea</td>
   </tr>
   <tr>
-    <td>2</td><td>Poland</td><td>Debica</td>
+    <td>2</td><td>Spain</td><td>Madrid</td>
   </tr>
   <tr>
     <td>2</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
-    <td>2</td><td>Spain</td><td>Madrid</td>
+    <td>2</td><td>Romania</td><td>Constanta</td>
   </tr>
   <tr>
-    <td>2</td><td>Romania</td><td>Constanta</td>
+    <td>2</td><td>India</td><td>Delhi</td>
   </tr>
   <tr>
     <td>1</td><td>Romania</td><td>Pechea</td>
