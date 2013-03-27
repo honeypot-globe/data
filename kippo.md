@@ -390,10 +390,10 @@
     <td>20</td><td>Europe</td><td></td>
   </tr>
   <tr>
-    <td>19</td><td>United States</td><td>Houston</td>
+    <td>20</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>18</td><td>Poland</td><td>Debica</td>
+    <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
     <td>18</td><td>United States</td><td>Orlando</td>
