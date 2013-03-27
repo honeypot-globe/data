@@ -447,28 +447,28 @@
     <td>10</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>9</td><td>China</td><td>Panan</td>
+    <td>10</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>9</td><td>China</td><td>Henan</td>
+    <td>9</td><td>China</td><td>Panan</td>
   </tr>
   <tr>
     <td>9</td><td>China</td><td>Zhongshan</td>
   </tr>
   <tr>
+    <td>9</td><td>China</td><td>Henan</td>
+  </tr>
+  <tr>
     <td>9</td><td>Slovenia</td><td>Maribor</td>
   </tr>
   <tr>
-    <td>8</td><td>Lithuania</td><td></td>
-  </tr>
-  <tr>
-    <td>8</td><td>Poland</td><td>Debica</td>
+    <td>8</td><td>Colombia</td><td>Bogotá</td>
   </tr>
   <tr>
     <td>8</td><td>Anonymous Proxy</td><td></td>
   </tr>
   <tr>
-    <td>8</td><td>Colombia</td><td>Bogotá</td>
+    <td>8</td><td>Lithuania</td><td></td>
   </tr>
   <tr>
     <td>8</td><td>Australia</td><td>Melbourne</td>
