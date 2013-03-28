@@ -297,6 +297,9 @@
     <td>64</td><td>China</td><td>Harbin</td>
   </tr>
   <tr>
+    <td>64</td><td>China</td><td>Chongqing</td>
+  </tr>
+  <tr>
     <td>59</td><td>Saudi Arabia</td><td></td>
   </tr>
   <tr>
@@ -310,9 +313,6 @@
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
-  </tr>
-  <tr>
-    <td>56</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
