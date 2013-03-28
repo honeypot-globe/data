@@ -93,10 +93,10 @@
     <td>1018</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
-    <td>914</td><td>United States</td><td>Cedar Falls</td>
+    <td>975</td><td>Turkey</td><td></td>
   </tr>
   <tr>
-    <td>886</td><td>Turkey</td><td></td>
+    <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
