@@ -306,10 +306,13 @@
     <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
+    <td>57</td><td>Austria</td><td></td>
+  </tr>
+  <tr>
     <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
-    <td>57</td><td>Austria</td><td></td>
+    <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
@@ -318,13 +321,10 @@
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
+    <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
     <td>50</td><td>Italy</td><td></td>
-  </tr>
-  <tr>
-    <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
     <td>49</td><td>United States</td><td>Englewood</td>
@@ -342,13 +342,13 @@
     <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
+    <td>42</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
     <td>41</td><td>India</td><td>Puri</td>
   </tr>
   <tr>
     <td>41</td><td>Fiji</td><td>Suva</td>
-  </tr>
-  <tr>
-    <td>40</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>38</td><td>Nigeria</td><td>Abuja</td>
