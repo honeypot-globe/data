@@ -348,10 +348,10 @@
     <td>41</td><td>Fiji</td><td>Suva</td>
   </tr>
   <tr>
-    <td>38</td><td>Nigeria</td><td>Abuja</td>
+    <td>40</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>38</td><td>Poland</td><td>Debica</td>
+    <td>38</td><td>Nigeria</td><td>Abuja</td>
   </tr>
   <tr>
     <td>36</td><td>China</td><td>Shangxi</td>
