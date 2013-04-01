@@ -135,6 +135,9 @@
     <td>683</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
+    <td>646</td><td>Brazil</td><td></td>
+  </tr>
+  <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
   </tr>
   <tr>
@@ -145,9 +148,6 @@
   </tr>
   <tr>
     <td>508</td><td>Sweden</td><td>Stockholm</td>
-  </tr>
-  <tr>
-    <td>483</td><td>Brazil</td><td></td>
   </tr>
   <tr>
     <td>445</td><td>United States</td><td>Fort Lauderdale</td>
