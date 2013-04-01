@@ -129,13 +129,13 @@
     <td>839</td><td>United States</td><td>Saint Louis</td>
   </tr>
   <tr>
+    <td>692</td><td>Brazil</td><td></td>
+  </tr>
+  <tr>
     <td>687</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
     <td>683</td><td>Canada</td><td>Montreal</td>
-  </tr>
-  <tr>
-    <td>646</td><td>Brazil</td><td></td>
   </tr>
   <tr>
     <td>624</td><td>Hong Kong</td><td>Cheung Sha Wan</td>
