@@ -78,7 +78,7 @@
     <td>1292</td><td>Taiwan, Province of China</td><td>Taipei</td>
   </tr>
   <tr>
-    <td>1239</td><td>China</td><td>Zhengzhou</td>
+    <td>1288</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
     <td>1143</td><td>China</td><td>Jiaxing</td>
