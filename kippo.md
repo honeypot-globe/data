@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>66678</td><td>China</td><td>Beijing</td>
+    <td>66684</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -177,7 +177,7 @@
     <td>378</td><td>United States</td><td>Canyon Country</td>
   </tr>
   <tr>
-    <td>359</td><td>India</td><td>Bangalore</td>
+    <td>362</td><td>India</td><td>Bangalore</td>
   </tr>
   <tr>
     <td>359</td><td>United States</td><td>Buffalo</td>
