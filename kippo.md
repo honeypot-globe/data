@@ -99,6 +99,9 @@
     <td>975</td><td>Turkey</td><td></td>
   </tr>
   <tr>
+    <td>957</td><td>Taiwan, Province of China</td><td>Taipei</td>
+  </tr>
+  <tr>
     <td>936</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
@@ -124,9 +127,6 @@
   </tr>
   <tr>
     <td>839</td><td>United States</td><td>Saint Louis</td>
-  </tr>
-  <tr>
-    <td>725</td><td>Taiwan, Province of China</td><td>Taipei</td>
   </tr>
   <tr>
     <td>687</td><td>United States</td><td>Los Angeles</td>
