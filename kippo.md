@@ -72,13 +72,13 @@
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
+    <td>1363</td><td>China</td><td>Zhengzhou</td>
+  </tr>
+  <tr>
     <td>1337</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
     <td>1292</td><td>Taiwan, Province of China</td><td>Taipei</td>
-  </tr>
-  <tr>
-    <td>1288</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
     <td>1143</td><td>China</td><td>Jiaxing</td>
