@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>67894</td><td>China</td><td>Beijing</td>
+    <td>67926</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -15,7 +15,7 @@
     <td>18787</td><td>Singapore</td><td>Singapore</td>
   </tr>
   <tr>
-    <td>11532</td><td>Korea, Republic of</td><td>Seoul</td>
+    <td>11536</td><td>Korea, Republic of</td><td>Seoul</td>
   </tr>
   <tr>
     <td>8202</td><td>France</td><td></td>
