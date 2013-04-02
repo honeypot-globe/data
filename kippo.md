@@ -393,10 +393,10 @@
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
-    <td>28</td><td>Argentina</td><td>Buenos Aires</td>
+    <td>30</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
-    <td>28</td><td>Peru</td><td>Lima</td>
+    <td>28</td><td>Argentina</td><td>Buenos Aires</td>
   </tr>
   <tr>
     <td>27</td><td>Bulgaria</td><td>Vratsa</td>
