@@ -402,13 +402,13 @@
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
   </tr>
   <tr>
+    <td>26</td><td>Peru</td><td>Lima</td>
+  </tr>
+  <tr>
     <td>24</td><td>United States</td><td>Miami</td>
   </tr>
   <tr>
     <td>23</td><td>China</td><td>Zhongshan</td>
-  </tr>
-  <tr>
-    <td>22</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>21</td><td>Japan</td><td></td>
