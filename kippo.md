@@ -258,13 +258,16 @@
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
-  </tr>
-  <tr>
     <td>160</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
+    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
+  </tr>
+  <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
+  </tr>
+  <tr>
+    <td>131</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
@@ -286,9 +289,6 @@
   </tr>
   <tr>
     <td>91</td><td>China</td><td>Suzhou</td>
-  </tr>
-  <tr>
-    <td>86</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>85</td><td>Netherlands</td><td></td>
