@@ -57,7 +57,7 @@
     <td>2050</td><td>Iran, Islamic Republic of</td><td></td>
   </tr>
   <tr>
-    <td>1892</td><td>China</td><td>Guangzhou</td>
+    <td>1901</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
@@ -267,7 +267,7 @@
     <td>154</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
-    <td>131</td><td>Thailand</td><td></td>
+    <td>142</td><td>Thailand</td><td></td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
