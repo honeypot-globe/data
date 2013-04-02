@@ -81,7 +81,7 @@
     <td>1292</td><td>Taiwan, Province of China</td><td>Taipei</td>
   </tr>
   <tr>
-    <td>1177</td><td>China</td><td>Nanjing</td>
+    <td>1206</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
     <td>1143</td><td>China</td><td>Jiaxing</td>
