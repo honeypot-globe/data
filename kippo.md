@@ -102,7 +102,7 @@
     <td>975</td><td>Turkey</td><td></td>
   </tr>
   <tr>
-    <td>944</td><td>China</td><td>Shanghai</td>
+    <td>959</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
     <td>914</td><td>United States</td><td>Cedar Falls</td>
@@ -327,13 +327,13 @@
     <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
-    <td>56</td><td>Philippines</td><td>Tarlac</td>
+    <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
     <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>United States</td><td>Dekalb</td>
+    <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
@@ -345,10 +345,10 @@
     <td>50</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
-    <td>49</td><td>United States</td><td>Englewood</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
     <td>47</td><td>Hong Kong</td><td></td>
@@ -381,10 +381,10 @@
     <td>33</td><td>China</td><td>Kunming</td>
   </tr>
   <tr>
-    <td>33</td><td>Germany</td><td>Germering</td>
+    <td>33</td><td>China</td><td>Huzhou</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Huzhou</td>
+    <td>33</td><td>Germany</td><td>Germering</td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
@@ -396,13 +396,13 @@
     <td>28</td><td>Argentina</td><td>Buenos Aires</td>
   </tr>
   <tr>
+    <td>28</td><td>Peru</td><td>Lima</td>
+  </tr>
+  <tr>
     <td>27</td><td>Bulgaria</td><td>Vratsa</td>
   </tr>
   <tr>
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
-  </tr>
-  <tr>
-    <td>26</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
@@ -423,10 +423,10 @@
     <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
-    <td>18</td><td>Bangladesh</td><td>Dhaka</td>
+    <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
-    <td>18</td><td>United States</td><td>Orlando</td>
+    <td>18</td><td>Bangladesh</td><td>Dhaka</td>
   </tr>
   <tr>
     <td>17</td><td>China</td><td>Nanchang</td>
@@ -444,25 +444,25 @@
     <td>14</td><td>United States</td><td>Tampa</td>
   </tr>
   <tr>
-    <td>14</td><td>Australia</td><td>Point Cook</td>
+    <td>14</td><td>India</td><td>Chennai</td>
   </tr>
   <tr>
-    <td>14</td><td>India</td><td>Chennai</td>
+    <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
     <td>13</td><td>Costa Rica</td><td>Alajuela</td>
   </tr>
   <tr>
-    <td>13</td><td>Japan</td><td>Hiratsuka</td>
-  </tr>
-  <tr>
-    <td>13</td><td>Brazil</td><td>São Paulo</td>
+    <td>13</td><td>Netherlands</td><td>Almere</td>
   </tr>
   <tr>
     <td>13</td><td>China</td><td>Wenzhou</td>
   </tr>
   <tr>
-    <td>13</td><td>Netherlands</td><td>Almere</td>
+    <td>13</td><td>Brazil</td><td>São Paulo</td>
+  </tr>
+  <tr>
+    <td>13</td><td>Japan</td><td>Hiratsuka</td>
   </tr>
   <tr>
     <td>12</td><td>China</td><td>Shenyang</td>
