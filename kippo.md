@@ -408,6 +408,9 @@
     <td>23</td><td>China</td><td>Zhongshan</td>
   </tr>
   <tr>
+    <td>22</td><td>Peru</td><td>Lima</td>
+  </tr>
+  <tr>
     <td>21</td><td>Japan</td><td></td>
   </tr>
   <tr>
@@ -420,19 +423,16 @@
     <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
-    <td>18</td><td>Peru</td><td>Lima</td>
-  </tr>
-  <tr>
     <td>18</td><td>Bangladesh</td><td>Dhaka</td>
   </tr>
   <tr>
     <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
-    <td>17</td><td>United States</td><td>Springboro</td>
+    <td>17</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
-    <td>17</td><td>China</td><td>Nanchang</td>
+    <td>17</td><td>United States</td><td>Springboro</td>
   </tr>
   <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
@@ -441,22 +441,22 @@
     <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
+    <td>14</td><td>United States</td><td>Tampa</td>
+  </tr>
+  <tr>
     <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
     <td>14</td><td>India</td><td>Chennai</td>
   </tr>
   <tr>
-    <td>14</td><td>United States</td><td>Tampa</td>
-  </tr>
-  <tr>
-    <td>13</td><td>Brazil</td><td>São Paulo</td>
-  </tr>
-  <tr>
     <td>13</td><td>Costa Rica</td><td>Alajuela</td>
   </tr>
   <tr>
     <td>13</td><td>Japan</td><td>Hiratsuka</td>
+  </tr>
+  <tr>
+    <td>13</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
     <td>13</td><td>China</td><td>Wenzhou</td>
@@ -468,10 +468,10 @@
     <td>12</td><td>China</td><td>Shenyang</td>
   </tr>
   <tr>
-    <td>12</td><td>China</td><td>Jiamusi</td>
+    <td>12</td><td>Belarus</td><td></td>
   </tr>
   <tr>
-    <td>12</td><td>Belarus</td><td></td>
+    <td>12</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>11</td><td>United States</td><td>Hudson</td>
