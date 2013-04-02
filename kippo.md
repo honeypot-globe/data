@@ -420,10 +420,13 @@
     <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
-    <td>18</td><td>United States</td><td>Orlando</td>
+    <td>18</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>18</td><td>Bangladesh</td><td>Dhaka</td>
+  </tr>
+  <tr>
+    <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
     <td>17</td><td>United States</td><td>Springboro</td>
@@ -433,9 +436,6 @@
   </tr>
   <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
-  </tr>
-  <tr>
-    <td>16</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>15</td><td>India</td><td>Kadapa</td>
