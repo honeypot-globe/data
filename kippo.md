@@ -72,7 +72,7 @@
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
-    <td>1368</td><td>China</td><td>Zhengzhou</td>
+    <td>1402</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
     <td>1337</td><td>China</td><td>Tianjin</td>
