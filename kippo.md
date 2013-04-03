@@ -165,10 +165,10 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
-    <td>398</td><td>United Kingdom</td><td></td>
+    <td>411</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
-    <td>396</td><td>China</td><td>Wuhan</td>
+    <td>398</td><td>United Kingdom</td><td></td>
   </tr>
   <tr>
     <td>382</td><td>Lithuania</td><td>Vilnius</td>
