@@ -108,7 +108,7 @@
     <td>914</td><td>United States</td><td>Cedar Falls</td>
   </tr>
   <tr>
-    <td>897</td><td>Korea, Republic of</td><td></td>
+    <td>901</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>876</td><td>Sweden</td><td>Stora Höga</td>
