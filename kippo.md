@@ -270,6 +270,9 @@
     <td>142</td><td>Thailand</td><td></td>
   </tr>
   <tr>
+    <td>132</td><td>Italy</td><td></td>
+  </tr>
+  <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
   </tr>
   <tr>
@@ -283,9 +286,6 @@
   </tr>
   <tr>
     <td>99</td><td>Romania</td><td>Suceava</td>
-  </tr>
-  <tr>
-    <td>97</td><td>Italy</td><td></td>
   </tr>
   <tr>
     <td>93</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
@@ -303,10 +303,10 @@
     <td>79</td><td>United States</td><td>Waltham</td>
   </tr>
   <tr>
-    <td>72</td><td>Canada</td><td>Markham</td>
+    <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
-    <td>72</td><td>China</td><td>Chongqing</td>
+    <td>72</td><td>Canada</td><td>Markham</td>
   </tr>
   <tr>
     <td>69</td><td>Thailand</td><td>Bangkok</td>
