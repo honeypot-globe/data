@@ -258,10 +258,10 @@
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
+    <td>160</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
-    <td>160</td><td>Portugal</td><td>Palmela</td>
+    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
@@ -283,6 +283,9 @@
   </tr>
   <tr>
     <td>99</td><td>Romania</td><td>Suceava</td>
+  </tr>
+  <tr>
+    <td>97</td><td>Italy</td><td></td>
   </tr>
   <tr>
     <td>93</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
@@ -336,19 +339,16 @@
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
-    <td>50</td><td>Italy</td><td></td>
-  </tr>
-  <tr>
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
     <td>50</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
-    <td>49</td><td>United States</td><td>Englewood</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
     <td>47</td><td>Hong Kong</td><td></td>
@@ -363,10 +363,10 @@
     <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
-    <td>41</td><td>Fiji</td><td>Suva</td>
+    <td>41</td><td>India</td><td>Puri</td>
   </tr>
   <tr>
-    <td>41</td><td>India</td><td>Puri</td>
+    <td>41</td><td>Fiji</td><td>Suva</td>
   </tr>
   <tr>
     <td>38</td><td>Nigeria</td><td>Abuja</td>
@@ -381,13 +381,13 @@
     <td>34</td><td>United States</td><td>Yonkers</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Kunming</td>
-  </tr>
-  <tr>
     <td>33</td><td>Germany</td><td>Germering</td>
   </tr>
   <tr>
     <td>33</td><td>China</td><td>Huzhou</td>
+  </tr>
+  <tr>
+    <td>33</td><td>China</td><td>Kunming</td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
@@ -465,10 +465,10 @@
     <td>13</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
-    <td>12</td><td>Belarus</td><td></td>
+    <td>12</td><td>China</td><td>Shenyang</td>
   </tr>
   <tr>
-    <td>12</td><td>China</td><td>Shenyang</td>
+    <td>12</td><td>Belarus</td><td></td>
   </tr>
   <tr>
     <td>12</td><td>China</td><td>Jiamusi</td>
