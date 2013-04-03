@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>70359</td><td>China</td><td>Beijing</td>
+    <td>70369</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -57,7 +57,7 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
-    <td>1901</td><td>China</td><td>Guangzhou</td>
+    <td>2027</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
@@ -99,10 +99,10 @@
     <td>1036</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>975</td><td>Turkey</td><td></td>
+    <td>986</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
-    <td>959</td><td>China</td><td>Shanghai</td>
+    <td>975</td><td>Turkey</td><td></td>
   </tr>
   <tr>
     <td>914</td><td>United States</td><td>Cedar Falls</td>
