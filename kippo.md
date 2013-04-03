@@ -54,10 +54,10 @@
     <td>2477</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
-    <td>2069</td><td>United States</td><td>Las Cruces</td>
+    <td>2088</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
-    <td>2027</td><td>China</td><td>Guangzhou</td>
+    <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
@@ -99,7 +99,7 @@
     <td>1036</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>986</td><td>China</td><td>Shanghai</td>
+    <td>995</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
     <td>975</td><td>Turkey</td><td></td>
