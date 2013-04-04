@@ -72,13 +72,13 @@
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
+    <td>1536</td><td>Korea, Republic of</td><td>Ilsan</td>
+  </tr>
+  <tr>
     <td>1403</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
     <td>1397</td><td>China</td><td>Tianjin</td>
-  </tr>
-  <tr>
-    <td>1292</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>1292</td><td>Taiwan, Province of China</td><td>Taipei</td>
