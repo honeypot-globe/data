@@ -54,7 +54,7 @@
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
   </tr>
   <tr>
-    <td>2088</td><td>China</td><td>Guangzhou</td>
+    <td>2095</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>2069</td><td>United States</td><td>Las Cruces</td>
