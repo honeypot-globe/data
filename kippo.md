@@ -45,7 +45,7 @@
     <td>2840</td><td>Korea, Republic of</td><td>Gwangmyeong</td>
   </tr>
   <tr>
-    <td>2622</td><td>China</td><td>Jinan</td>
+    <td>2679</td><td>China</td><td>Jinan</td>
   </tr>
   <tr>
     <td>2604</td><td>Iran, Islamic Republic of</td><td></td>
