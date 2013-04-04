@@ -60,6 +60,9 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
+    <td>1779</td><td>Korea, Republic of</td><td>Ilsan</td>
+  </tr>
+  <tr>
     <td>1768</td><td>United States</td><td>Dallas</td>
   </tr>
   <tr>
@@ -70,9 +73,6 @@
   </tr>
   <tr>
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
-  </tr>
-  <tr>
-    <td>1536</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>1403</td><td>China</td><td>Zhengzhou</td>
@@ -231,10 +231,10 @@
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
@@ -264,10 +264,10 @@
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
+    <td>160</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
-    <td>160</td><td>Portugal</td><td>Palmela</td>
+    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
