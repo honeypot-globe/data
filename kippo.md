@@ -129,6 +129,9 @@
     <td>839</td><td>United States</td><td>Saint Louis</td>
   </tr>
   <tr>
+    <td>804</td><td>Korea, Republic of</td><td>Ilsan</td>
+  </tr>
+  <tr>
     <td>742</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
@@ -145,9 +148,6 @@
   </tr>
   <tr>
     <td>580</td><td>United States</td><td>Phoenix</td>
-  </tr>
-  <tr>
-    <td>560</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
     <td>508</td><td>Sweden</td><td>Stockholm</td>
