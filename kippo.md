@@ -204,10 +204,13 @@
     <td>294</td><td>Spain</td><td></td>
   </tr>
   <tr>
-    <td>287</td><td>India</td><td>Hyderabad</td>
+    <td>287</td><td>United States</td><td>San Antonio</td>
   </tr>
   <tr>
-    <td>287</td><td>United States</td><td>San Antonio</td>
+    <td>287</td><td>Ukraine</td><td></td>
+  </tr>
+  <tr>
+    <td>287</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
     <td>285</td><td>China</td><td>Chengdu</td>
@@ -231,10 +234,10 @@
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
@@ -256,9 +259,6 @@
   </tr>
   <tr>
     <td>173</td><td>China</td><td>Ürümqi</td>
-  </tr>
-  <tr>
-    <td>166</td><td>Ukraine</td><td></td>
   </tr>
   <tr>
     <td>164</td><td>Poland</td><td></td>
@@ -306,10 +306,10 @@
     <td>79</td><td>United States</td><td>Waltham</td>
   </tr>
   <tr>
-    <td>72</td><td>Canada</td><td>Markham</td>
+    <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
-    <td>72</td><td>China</td><td>Chongqing</td>
+    <td>72</td><td>Canada</td><td>Markham</td>
   </tr>
   <tr>
     <td>69</td><td>Thailand</td><td>Bangkok</td>
