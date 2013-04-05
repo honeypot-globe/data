@@ -159,6 +159,9 @@
     <td>442</td><td>China</td><td>Wuxi</td>
   </tr>
   <tr>
+    <td>441</td><td>China</td><td>Wuhan</td>
+  </tr>
+  <tr>
     <td>437</td><td>Bulgaria</td><td>Burgas</td>
   </tr>
   <tr>
@@ -166,9 +169,6 @@
   </tr>
   <tr>
     <td>427</td><td>Turkey</td><td>Ankara</td>
-  </tr>
-  <tr>
-    <td>426</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>398</td><td>United Kingdom</td><td></td>
@@ -204,10 +204,10 @@
     <td>294</td><td>Spain</td><td></td>
   </tr>
   <tr>
-    <td>287</td><td>United States</td><td>San Antonio</td>
+    <td>287</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>287</td><td>India</td><td>Hyderabad</td>
+    <td>287</td><td>United States</td><td>San Antonio</td>
   </tr>
   <tr>
     <td>285</td><td>China</td><td>Chengdu</td>
@@ -342,10 +342,13 @@
     <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
-    <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
+    <td>51</td><td>Hong Kong</td><td></td>
   </tr>
   <tr>
     <td>50</td><td>Poland</td><td>Debica</td>
+  </tr>
+  <tr>
+    <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
     <td>49</td><td>China</td><td>Zibo</td>
@@ -355,9 +358,6 @@
   </tr>
   <tr>
     <td>48</td><td>Netherlands</td><td>Delft</td>
-  </tr>
-  <tr>
-    <td>47</td><td>Hong Kong</td><td></td>
   </tr>
   <tr>
     <td>45</td><td>Australia</td><td></td>
