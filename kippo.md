@@ -69,7 +69,7 @@
     <td>1676</td><td>China</td><td></td>
   </tr>
   <tr>
-    <td>1653</td><td>Iceland</td><td></td>
+    <td>1654</td><td>Iceland</td><td></td>
   </tr>
   <tr>
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
@@ -438,10 +438,10 @@
     <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
-    <td>17</td><td>China</td><td>Nanchang</td>
+    <td>17</td><td>United States</td><td>Springboro</td>
   </tr>
   <tr>
-    <td>17</td><td>United States</td><td>Springboro</td>
+    <td>17</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
@@ -453,19 +453,19 @@
     <td>14</td><td>India</td><td>Chennai</td>
   </tr>
   <tr>
-    <td>14</td><td>United States</td><td>Tampa</td>
+    <td>14</td><td>Australia</td><td>Point Cook</td>
   </tr>
   <tr>
-    <td>14</td><td>Australia</td><td>Point Cook</td>
+    <td>14</td><td>United States</td><td>Tampa</td>
   </tr>
   <tr>
     <td>13</td><td>Netherlands</td><td>Almere</td>
   </tr>
   <tr>
-    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
+    <td>13</td><td>China</td><td>Wenzhou</td>
   </tr>
   <tr>
-    <td>13</td><td>China</td><td>Wenzhou</td>
+    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
   </tr>
   <tr>
     <td>13</td><td>Japan</td><td>Hiratsuka</td>
