@@ -168,7 +168,7 @@
     <td>427</td><td>Turkey</td><td>Ankara</td>
   </tr>
   <tr>
-    <td>411</td><td>China</td><td>Wuhan</td>
+    <td>426</td><td>China</td><td>Wuhan</td>
   </tr>
   <tr>
     <td>398</td><td>United Kingdom</td><td></td>
