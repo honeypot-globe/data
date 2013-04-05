@@ -381,22 +381,22 @@
     <td>38</td><td>Nigeria</td><td>Abuja</td>
   </tr>
   <tr>
-    <td>36</td><td>Peru</td><td>Lima</td>
+    <td>36</td><td>China</td><td>Shangxi</td>
   </tr>
   <tr>
-    <td>36</td><td>China</td><td>Shangxi</td>
+    <td>36</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>34</td><td>United States</td><td>Yonkers</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Kunming</td>
+    <td>33</td><td>Germany</td><td>Germering</td>
   </tr>
   <tr>
     <td>33</td><td>China</td><td>Huzhou</td>
   </tr>
   <tr>
-    <td>33</td><td>Germany</td><td>Germering</td>
+    <td>33</td><td>China</td><td>Kunming</td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
@@ -435,6 +435,9 @@
     <td>20</td><td>Europe</td><td></td>
   </tr>
   <tr>
+    <td>20</td><td>China</td><td>Nanchang</td>
+  </tr>
+  <tr>
     <td>19</td><td>United States</td><td>Houston</td>
   </tr>
   <tr>
@@ -445,9 +448,6 @@
   </tr>
   <tr>
     <td>17</td><td>United States</td><td>Springboro</td>
-  </tr>
-  <tr>
-    <td>17</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>16</td><td>United States</td><td>Walnut</td>
@@ -465,13 +465,13 @@
     <td>14</td><td>India</td><td>Chennai</td>
   </tr>
   <tr>
+    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
+  </tr>
+  <tr>
     <td>13</td><td>Japan</td><td>Hiratsuka</td>
   </tr>
   <tr>
     <td>13</td><td>Netherlands</td><td>Almere</td>
-  </tr>
-  <tr>
-    <td>13</td><td>Costa Rica</td><td>Alajuela</td>
   </tr>
   <tr>
     <td>13</td><td>China</td><td>Wenzhou</td>
