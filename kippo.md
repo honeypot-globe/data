@@ -219,10 +219,10 @@
     <td>262</td><td>United Kingdom</td><td>London</td>
   </tr>
   <tr>
-    <td>248</td><td>Indonesia</td><td>Jakarta</td>
+    <td>248</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
-    <td>248</td><td>United States</td><td>Los Angeles</td>
+    <td>248</td><td>Indonesia</td><td>Jakarta</td>
   </tr>
   <tr>
     <td>247</td><td>United States</td><td>Manassas</td>
@@ -231,10 +231,10 @@
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
     <td>216</td><td>Brazil</td><td>Florianópolis</td>
@@ -256,6 +256,9 @@
   </tr>
   <tr>
     <td>173</td><td>China</td><td>Ürümqi</td>
+  </tr>
+  <tr>
+    <td>166</td><td>Ukraine</td><td></td>
   </tr>
   <tr>
     <td>164</td><td>Poland</td><td></td>
@@ -285,9 +288,6 @@
     <td>125</td><td>Philippines</td><td>Manila</td>
   </tr>
   <tr>
-    <td>116</td><td>Ukraine</td><td></td>
-  </tr>
-  <tr>
     <td>115</td><td>Korea, Republic of</td><td>Cheongju</td>
   </tr>
   <tr>
@@ -306,10 +306,10 @@
     <td>79</td><td>United States</td><td>Waltham</td>
   </tr>
   <tr>
-    <td>72</td><td>Canada</td><td>Markham</td>
+    <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
-    <td>72</td><td>China</td><td>Chongqing</td>
+    <td>72</td><td>Canada</td><td>Markham</td>
   </tr>
   <tr>
     <td>69</td><td>Thailand</td><td>Bangkok</td>
@@ -327,25 +327,25 @@
     <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
-    <td>57</td><td>United States</td><td>Santa Clara</td>
-  </tr>
-  <tr>
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Philippines</td><td>Tarlac</td>
-  </tr>
-  <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
+    <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
-    <td>50</td><td>Poland</td><td>Debica</td>
+    <td>56</td><td>Ethiopia</td><td></td>
+  </tr>
+  <tr>
+    <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
+  </tr>
+  <tr>
+    <td>50</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>49</td><td>United States</td><td>Englewood</td>
