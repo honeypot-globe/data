@@ -267,10 +267,10 @@
     <td>162</td><td>Philippines</td><td>Ugong Norte</td>
   </tr>
   <tr>
-    <td>160</td><td>Portugal</td><td>Palmela</td>
+    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
   </tr>
   <tr>
-    <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
+    <td>160</td><td>Portugal</td><td>Palmela</td>
   </tr>
   <tr>
     <td>154</td><td>United States</td><td>Atlanta</td>
@@ -291,13 +291,13 @@
     <td>115</td><td>Korea, Republic of</td><td>Cheongju</td>
   </tr>
   <tr>
+    <td>102</td><td>China</td><td>Suzhou</td>
+  </tr>
+  <tr>
     <td>99</td><td>Romania</td><td>Suceava</td>
   </tr>
   <tr>
     <td>93</td><td>Viet Nam</td><td>Ho Chi Minh City</td>
-  </tr>
-  <tr>
-    <td>91</td><td>China</td><td>Suzhou</td>
   </tr>
   <tr>
     <td>85</td><td>Netherlands</td><td></td>
