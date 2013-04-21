@@ -48,7 +48,7 @@
     <td>3686</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
-    <td>3003</td><td>Singapore</td><td></td>
+    <td>3204</td><td>Singapore</td><td></td>
   </tr>
   <tr>
     <td>2946</td><td>Canada</td><td>Montreal</td>
