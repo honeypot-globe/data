@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>77686</td><td>China</td><td>Beijing</td>
+    <td>77692</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -69,7 +69,7 @@
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
   </tr>
   <tr>
-    <td>2331</td><td>China</td><td>Guangzhou</td>
+    <td>2337</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>2328</td><td>Spain</td><td></td>
