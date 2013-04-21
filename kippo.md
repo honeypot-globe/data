@@ -48,6 +48,9 @@
     <td>3686</td><td>China</td><td>Hangzhou</td>
   </tr>
   <tr>
+    <td>3003</td><td>Singapore</td><td></td>
+  </tr>
+  <tr>
     <td>2946</td><td>Canada</td><td>Montreal</td>
   </tr>
   <tr>
@@ -58,9 +61,6 @@
   </tr>
   <tr>
     <td>2840</td><td>Korea, Republic of</td><td>Gwangmyeong</td>
-  </tr>
-  <tr>
-    <td>2802</td><td>Singapore</td><td></td>
   </tr>
   <tr>
     <td>2604</td><td>Iran, Islamic Republic of</td><td></td>
