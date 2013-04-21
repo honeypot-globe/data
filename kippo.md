@@ -96,6 +96,9 @@
     <td>1655</td><td>Turkey</td><td></td>
   </tr>
   <tr>
+    <td>1611</td><td>Singapore</td><td></td>
+  </tr>
+  <tr>
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
@@ -103,9 +106,6 @@
   </tr>
   <tr>
     <td>1472</td><td>China</td><td>Tianjin</td>
-  </tr>
-  <tr>
-    <td>1406</td><td>Singapore</td><td></td>
   </tr>
   <tr>
     <td>1346</td><td>China</td><td>Putian</td>
