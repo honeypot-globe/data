@@ -66,6 +66,9 @@
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
   </tr>
   <tr>
+    <td>2407</td><td>Singapore</td><td></td>
+  </tr>
+  <tr>
     <td>2331</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
@@ -73,9 +76,6 @@
   </tr>
   <tr>
     <td>2226</td><td>China</td><td></td>
-  </tr>
-  <tr>
-    <td>2209</td><td>Singapore</td><td></td>
   </tr>
   <tr>
     <td>2119</td><td>Korea, Republic of</td><td>Ilsan</td>
