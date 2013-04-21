@@ -75,6 +75,9 @@
     <td>2226</td><td>China</td><td></td>
   </tr>
   <tr>
+    <td>2209</td><td>Singapore</td><td></td>
+  </tr>
+  <tr>
     <td>2119</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
@@ -82,9 +85,6 @@
   </tr>
   <tr>
     <td>2069</td><td>United States</td><td>Las Cruces</td>
-  </tr>
-  <tr>
-    <td>2012</td><td>Singapore</td><td></td>
   </tr>
   <tr>
     <td>1781</td><td>China</td><td>Nanjing</td>
