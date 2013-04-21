@@ -108,7 +108,7 @@
     <td>1472</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
-    <td>1346</td><td>China</td><td>Putian</td>
+    <td>1372</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
     <td>1346</td><td>Taiwan, Province of China</td><td>Taipei</td>
