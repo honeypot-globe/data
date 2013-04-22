@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>77752</td><td>China</td><td>Beijing</td>
+    <td>77765</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -117,7 +117,7 @@
     <td>1346</td><td>Taiwan, Province of China</td><td>Taipei</td>
   </tr>
   <tr>
-    <td>1242</td><td>Korea, Republic of</td><td></td>
+    <td>1264</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>1226</td><td>Ukraine</td><td></td>
