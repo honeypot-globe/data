@@ -498,10 +498,10 @@
     <td>20</td><td>Europe</td><td></td>
   </tr>
   <tr>
-    <td>18</td><td>United States</td><td>Orlando</td>
+    <td>18</td><td>United States</td><td>Taylorsville</td>
   </tr>
   <tr>
-    <td>18</td><td>United States</td><td>Taylorsville</td>
+    <td>18</td><td>United States</td><td>Orlando</td>
   </tr>
   <tr>
     <td>18</td><td>United States</td><td>Durham</td>
@@ -513,6 +513,9 @@
     <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
+    <td>15</td><td>China</td><td>Jiamusi</td>
+  </tr>
+  <tr>
     <td>14</td><td>United States</td><td>Tampa</td>
   </tr>
   <tr>
@@ -520,9 +523,6 @@
   </tr>
   <tr>
     <td>14</td><td>India</td><td>Chennai</td>
-  </tr>
-  <tr>
-    <td>13</td><td>China</td><td>Wenzhou</td>
   </tr>
   <tr>
     <td>13</td><td>Netherlands</td><td>Almere</td>
@@ -537,43 +537,43 @@
     <td>13</td><td>Costa Rica</td><td>Alajuela</td>
   </tr>
   <tr>
+    <td>13</td><td>China</td><td>Wenzhou</td>
+  </tr>
+  <tr>
     <td>12</td><td>China</td><td>Shenyang</td>
   </tr>
   <tr>
     <td>12</td><td>Belarus</td><td></td>
   </tr>
   <tr>
-    <td>12</td><td>China</td><td>Jiamusi</td>
-  </tr>
-  <tr>
     <td>11</td><td>United States</td><td>Hudson</td>
-  </tr>
-  <tr>
-    <td>9</td><td>China</td><td>Panan</td>
-  </tr>
-  <tr>
-    <td>9</td><td>China</td><td>Dongguan</td>
   </tr>
   <tr>
     <td>9</td><td>China</td><td>Henan</td>
   </tr>
   <tr>
+    <td>9</td><td>China</td><td>Dongguan</td>
+  </tr>
+  <tr>
     <td>9</td><td>Slovenia</td><td>Maribor</td>
+  </tr>
+  <tr>
+    <td>9</td><td>China</td><td>Panan</td>
   </tr>
   <tr>
     <td>8</td><td>Anonymous Proxy</td><td></td>
   </tr>
   <tr>
-    <td>8</td><td>Colombia</td><td>Bogotá</td>
+    <td>8</td><td>Australia</td><td>Melbourne</td>
   </tr>
   <tr>
-    <td>8</td><td>Australia</td><td>Melbourne</td>
+    <td>8</td><td>Lithuania</td><td></td>
   </tr>
   <tr>
     <td>8</td><td>Chile</td><td>Santiago</td>
   </tr>
   <tr>
-    <td>8</td><td>Lithuania</td><td></td>
+    <td>8</td><td>Colombia</td><td>Bogotá</td>
   </tr>
   <tr>
     <td>8</td><td>Russian Federation</td><td>Yekaterinburg</td>
