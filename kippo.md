@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>78024</td><td>China</td><td>Beijing</td>
+    <td>78034</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -303,10 +303,10 @@
     <td>209</td><td>Netherlands</td><td></td>
   </tr>
   <tr>
-    <td>192</td><td>Spain</td><td>Parla</td>
+    <td>196</td><td>China</td><td>Xian</td>
   </tr>
   <tr>
-    <td>188</td><td>China</td><td>Xian</td>
+    <td>192</td><td>Spain</td><td>Parla</td>
   </tr>
   <tr>
     <td>184</td><td>India</td><td>Mumbai</td>
