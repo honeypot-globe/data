@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>78018</td><td>China</td><td>Beijing</td>
+    <td>78024</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -78,6 +78,9 @@
     <td>2226</td><td>China</td><td></td>
   </tr>
   <tr>
+    <td>2194</td><td>United States</td><td>Greenville</td>
+  </tr>
+  <tr>
     <td>2119</td><td>Korea, Republic of</td><td>Ilsan</td>
   </tr>
   <tr>
@@ -85,9 +88,6 @@
   </tr>
   <tr>
     <td>2069</td><td>United States</td><td>Las Cruces</td>
-  </tr>
-  <tr>
-    <td>1890</td><td>United States</td><td>Greenville</td>
   </tr>
   <tr>
     <td>1781</td><td>China</td><td>Nanjing</td>
