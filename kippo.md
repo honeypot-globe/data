@@ -468,6 +468,9 @@
     <td>32</td><td>China</td><td>Yiwu</td>
   </tr>
   <tr>
+    <td>30</td><td>United States</td><td>Taylorsville</td>
+  </tr>
+  <tr>
     <td>30</td><td>Pakistan</td><td>Nowshera</td>
   </tr>
   <tr>
@@ -481,9 +484,6 @@
   </tr>
   <tr>
     <td>26</td><td>Russian Federation</td><td>Irkutsk</td>
-  </tr>
-  <tr>
-    <td>24</td><td>United States</td><td>Taylorsville</td>
   </tr>
   <tr>
     <td>24</td><td>United States</td><td>Miami</td>
