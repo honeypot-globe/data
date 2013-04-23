@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>78509</td><td>China</td><td>Beijing</td>
+    <td>78513</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -381,28 +381,28 @@
     <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>58</td><td>Turkey</td><td>Istanbul</td>
+    <td>62</td><td>United States</td><td>Taylorsville</td>
   </tr>
   <tr>
     <td>58</td><td>United States</td><td>Henderson</td>
   </tr>
   <tr>
-    <td>57</td><td>Austria</td><td></td>
+    <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
     <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
-    <td>56</td><td>United States</td><td>Dekalb</td>
+    <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
     <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Philippines</td><td>Tarlac</td>
+    <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
-    <td>54</td><td>United States</td><td>Taylorsville</td>
+    <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>53</td><td>Poland</td><td>Szczecinek</td>
