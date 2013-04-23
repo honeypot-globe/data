@@ -351,7 +351,7 @@
     <td>115</td><td>Korea, Republic of</td><td>Cheongju</td>
   </tr>
   <tr>
-    <td>101</td><td>United States</td><td></td>
+    <td>107</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>99</td><td>Romania</td><td>Suceava</td>
