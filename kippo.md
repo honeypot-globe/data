@@ -366,19 +366,19 @@
     <td>77</td><td>Thailand</td><td>Bangkok</td>
   </tr>
   <tr>
+    <td>76</td><td>United States</td><td>Taylorsville</td>
+  </tr>
+  <tr>
     <td>74</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>74</td><td>United States</td><td>Walnut</td>
   </tr>
   <tr>
-    <td>72</td><td>Canada</td><td>Markham</td>
-  </tr>
-  <tr>
     <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
-    <td>68</td><td>United States</td><td>Taylorsville</td>
+    <td>72</td><td>Canada</td><td>Markham</td>
   </tr>
   <tr>
     <td>67</td><td>Canada</td><td>Lasalle</td>
