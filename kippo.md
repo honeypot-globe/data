@@ -396,13 +396,16 @@
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
-  </tr>
-  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
+  </tr>
+  <tr>
+    <td>56</td><td>Ethiopia</td><td></td>
+  </tr>
+  <tr>
+    <td>55</td><td>Bangladesh</td><td>Dhaka</td>
   </tr>
   <tr>
     <td>53</td><td>Poland</td><td>Szczecinek</td>
@@ -433,9 +436,6 @@
   </tr>
   <tr>
     <td>43</td><td>Brazil</td><td>São Paulo</td>
-  </tr>
-  <tr>
-    <td>43</td><td>Bangladesh</td><td>Dhaka</td>
   </tr>
   <tr>
     <td>42</td><td>China</td><td>Haidian</td>
