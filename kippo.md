@@ -387,19 +387,22 @@
     <td>58</td><td>United States</td><td>Henderson</td>
   </tr>
   <tr>
-    <td>57</td><td>United States</td><td>Santa Clara</td>
-  </tr>
-  <tr>
     <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
+    <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
+    <td>56</td><td>Ethiopia</td><td></td>
+  </tr>
+  <tr>
     <td>56</td><td>Philippines</td><td>Tarlac</td>
+  </tr>
+  <tr>
+    <td>54</td><td>United States</td><td>Taylorsville</td>
   </tr>
   <tr>
     <td>53</td><td>Poland</td><td>Szczecinek</td>
@@ -414,10 +417,10 @@
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
-    <td>49</td><td>United States</td><td>Englewood</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
     <td>48</td><td>Netherlands</td><td>Delft</td>
@@ -426,13 +429,10 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>44</td><td>United States</td><td>Taylorsville</td>
+    <td>43</td><td>China</td><td>Qingdao</td>
   </tr>
   <tr>
     <td>43</td><td>Brazil</td><td>São Paulo</td>
-  </tr>
-  <tr>
-    <td>43</td><td>China</td><td>Qingdao</td>
   </tr>
   <tr>
     <td>43</td><td>Bangladesh</td><td>Dhaka</td>
@@ -444,10 +444,10 @@
     <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
-    <td>41</td><td>India</td><td>Puri</td>
+    <td>41</td><td>Fiji</td><td>Suva</td>
   </tr>
   <tr>
-    <td>41</td><td>Fiji</td><td>Suva</td>
+    <td>41</td><td>India</td><td>Puri</td>
   </tr>
   <tr>
     <td>36</td><td>China</td><td>Shangxi</td>
@@ -462,10 +462,10 @@
     <td>33</td><td>Germany</td><td>Germering</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Huzhou</td>
+    <td>33</td><td>China</td><td>Kunming</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Kunming</td>
+    <td>33</td><td>China</td><td>Huzhou</td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
