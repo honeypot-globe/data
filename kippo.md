@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>78581</td><td>China</td><td>Beijing</td>
+    <td>78596</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -21,7 +21,7 @@
     <td>8202</td><td>France</td><td></td>
   </tr>
   <tr>
-    <td>7648</td><td>United States</td><td>Atlanta</td>
+    <td>7959</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
     <td>5189</td><td>India</td><td>New Delhi</td>
