@@ -378,16 +378,16 @@
     <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
+    <td>68</td><td>United States</td><td>Taylorsville</td>
+  </tr>
+  <tr>
     <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>62</td><td>United States</td><td>Taylorsville</td>
+    <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
     <td>58</td><td>United States</td><td>Henderson</td>
-  </tr>
-  <tr>
-    <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
     <td>57</td><td>United States</td><td>Santa Clara</td>
