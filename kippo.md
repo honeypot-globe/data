@@ -426,6 +426,9 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
+    <td>44</td><td>United States</td><td>Taylorsville</td>
+  </tr>
+  <tr>
     <td>43</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
@@ -450,22 +453,19 @@
     <td>36</td><td>China</td><td>Shangxi</td>
   </tr>
   <tr>
-    <td>36</td><td>United States</td><td>Taylorsville</td>
-  </tr>
-  <tr>
     <td>36</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>34</td><td>United States</td><td>Yonkers</td>
   </tr>
   <tr>
-    <td>33</td><td>China</td><td>Kunming</td>
-  </tr>
-  <tr>
     <td>33</td><td>Germany</td><td>Germering</td>
   </tr>
   <tr>
     <td>33</td><td>China</td><td>Huzhou</td>
+  </tr>
+  <tr>
+    <td>33</td><td>China</td><td>Kunming</td>
   </tr>
   <tr>
     <td>32</td><td>China</td><td>Yiwu</td>
