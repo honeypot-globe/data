@@ -177,6 +177,9 @@
     <td>687</td><td>United States</td><td>Los Angeles</td>
   </tr>
   <tr>
+    <td>657</td><td>United States</td><td>Atlanta</td>
+  </tr>
+  <tr>
     <td>638</td><td>United States</td><td>Saint Louis</td>
   </tr>
   <tr>
@@ -244,9 +247,6 @@
   </tr>
   <tr>
     <td>302</td><td>Romania</td><td></td>
-  </tr>
-  <tr>
-    <td>293</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
     <td>291</td><td>United States</td><td>Seattle</td>
