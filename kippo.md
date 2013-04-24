@@ -351,7 +351,7 @@
     <td>115</td><td>Korea, Republic of</td><td>Cheongju</td>
   </tr>
   <tr>
-    <td>108</td><td>United States</td><td></td>
+    <td>109</td><td>United States</td><td></td>
   </tr>
   <tr>
     <td>105</td><td>China</td><td>Nanchang</td>
