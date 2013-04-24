@@ -285,10 +285,10 @@
     <td>235</td><td>Romania</td><td>Tritenii De Jos</td>
   </tr>
   <tr>
-    <td>228</td><td>Malaysia</td><td></td>
+    <td>228</td><td>Panama</td><td></td>
   </tr>
   <tr>
-    <td>228</td><td>Panama</td><td></td>
+    <td>228</td><td>Malaysia</td><td></td>
   </tr>
   <tr>
     <td>224</td><td>China</td><td>Suzhou</td>
@@ -312,6 +312,9 @@
     <td>192</td><td>Spain</td><td>Parla</td>
   </tr>
   <tr>
+    <td>185</td><td>Australia</td><td></td>
+  </tr>
+  <tr>
     <td>184</td><td>India</td><td>Mumbai</td>
   </tr>
   <tr>
@@ -322,9 +325,6 @@
   </tr>
   <tr>
     <td>175</td><td>China</td><td>Changsha</td>
-  </tr>
-  <tr>
-    <td>174</td><td>Australia</td><td></td>
   </tr>
   <tr>
     <td>164</td><td>Poland</td><td></td>
@@ -387,25 +387,25 @@
     <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
-    <td>58</td><td>United States</td><td>Henderson</td>
-  </tr>
-  <tr>
     <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
-    <td>57</td><td>Austria</td><td></td>
+    <td>58</td><td>United States</td><td>Henderson</td>
   </tr>
   <tr>
     <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
-    <td>56</td><td>Philippines</td><td>Tarlac</td>
+    <td>57</td><td>Austria</td><td></td>
+  </tr>
+  <tr>
+    <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
     <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
-    <td>56</td><td>United States</td><td>Dekalb</td>
+    <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
     <td>55</td><td>Bangladesh</td><td>Dhaka</td>
@@ -423,10 +423,10 @@
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>49</td><td>United States</td><td>Englewood</td>
   </tr>
   <tr>
-    <td>49</td><td>United States</td><td>Englewood</td>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
     <td>48</td><td>Netherlands</td><td>Delft</td>
@@ -435,10 +435,10 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>43</td><td>China</td><td>Qingdao</td>
+    <td>43</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
-    <td>43</td><td>Brazil</td><td>São Paulo</td>
+    <td>43</td><td>China</td><td>Qingdao</td>
   </tr>
   <tr>
     <td>42</td><td>China</td><td>Haikou</td>
@@ -453,10 +453,10 @@
     <td>41</td><td>Fiji</td><td>Suva</td>
   </tr>
   <tr>
-    <td>36</td><td>Peru</td><td>Lima</td>
+    <td>36</td><td>China</td><td>Shangxi</td>
   </tr>
   <tr>
-    <td>36</td><td>China</td><td>Shangxi</td>
+    <td>36</td><td>Peru</td><td>Lima</td>
   </tr>
   <tr>
     <td>34</td><td>United States</td><td>Yonkers</td>
