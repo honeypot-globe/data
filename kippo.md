@@ -324,6 +324,9 @@
     <td>175</td><td>China</td><td>Changsha</td>
   </tr>
   <tr>
+    <td>174</td><td>Australia</td><td></td>
+  </tr>
+  <tr>
     <td>164</td><td>Poland</td><td></td>
   </tr>
   <tr>
@@ -334,9 +337,6 @@
   </tr>
   <tr>
     <td>160</td><td>Trinidad and Tobago</td><td>San Fernando</td>
-  </tr>
-  <tr>
-    <td>140</td><td>Australia</td><td></td>
   </tr>
   <tr>
     <td>128</td><td>Venezuela</td><td>Mérida</td>
