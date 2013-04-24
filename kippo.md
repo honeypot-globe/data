@@ -354,6 +354,9 @@
     <td>107</td><td>United States</td><td></td>
   </tr>
   <tr>
+    <td>105</td><td>China</td><td>Nanchang</td>
+  </tr>
+  <tr>
     <td>99</td><td>Romania</td><td>Suceava</td>
   </tr>
   <tr>
@@ -367,9 +370,6 @@
   </tr>
   <tr>
     <td>76</td><td>United States</td><td>Taylorsville</td>
-  </tr>
-  <tr>
-    <td>74</td><td>China</td><td>Nanchang</td>
   </tr>
   <tr>
     <td>74</td><td>United States</td><td>Walnut</td>
