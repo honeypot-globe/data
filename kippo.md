@@ -6,7 +6,7 @@
     <th>City</th>
   </tr>
   <tr>
-    <td>78789</td><td>China</td><td>Beijing</td>
+    <td>78803</td><td>China</td><td>Beijing</td>
   </tr>
   <tr>
     <td>39884</td><td>United States</td><td>Clifton</td>
@@ -255,7 +255,7 @@
     <td>287</td><td>India</td><td>Hyderabad</td>
   </tr>
   <tr>
-    <td>271</td><td>China</td><td>Hebei</td>
+    <td>275</td><td>China</td><td>Hebei</td>
   </tr>
   <tr>
     <td>268</td><td>United States</td><td>Portland</td>
