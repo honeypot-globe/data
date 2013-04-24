@@ -114,7 +114,7 @@
     <td>1472</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
-    <td>1389</td><td>Korea, Republic of</td><td></td>
+    <td>1403</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>1372</td><td>China</td><td>Putian</td>
