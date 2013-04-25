@@ -72,7 +72,7 @@
     <td>2509</td><td>Cambodia</td><td>Phnom Penh</td>
   </tr>
   <tr>
-    <td>2340</td><td>China</td><td>Guangzhou</td>
+    <td>2354</td><td>China</td><td>Guangzhou</td>
   </tr>
   <tr>
     <td>2328</td><td>Spain</td><td></td>
