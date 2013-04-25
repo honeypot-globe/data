@@ -117,10 +117,10 @@
     <td>1472</td><td>China</td><td>Tianjin</td>
   </tr>
   <tr>
-    <td>1403</td><td>Korea, Republic of</td><td></td>
+    <td>1457</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
-    <td>1402</td><td>China</td><td>Putian</td>
+    <td>1403</td><td>Korea, Republic of</td><td></td>
   </tr>
   <tr>
     <td>1346</td><td>Taiwan, Province of China</td><td>Taipei</td>
