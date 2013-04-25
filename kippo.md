@@ -93,6 +93,9 @@
     <td>2069</td><td>United States</td><td>Las Cruces</td>
   </tr>
   <tr>
+    <td>1798</td><td>Turkey</td><td></td>
+  </tr>
+  <tr>
     <td>1781</td><td>China</td><td>Nanjing</td>
   </tr>
   <tr>
@@ -102,22 +105,19 @@
     <td>1671</td><td>Iceland</td><td></td>
   </tr>
   <tr>
-    <td>1655</td><td>Turkey</td><td></td>
-  </tr>
-  <tr>
     <td>1614</td><td>United States</td><td>Atlanta</td>
   </tr>
   <tr>
     <td>1554</td><td>Taiwan, Province of China</td><td></td>
   </tr>
   <tr>
+    <td>1548</td><td>China</td><td>Putian</td>
+  </tr>
+  <tr>
     <td>1490</td><td>China</td><td>Zhengzhou</td>
   </tr>
   <tr>
     <td>1472</td><td>China</td><td>Tianjin</td>
-  </tr>
-  <tr>
-    <td>1457</td><td>China</td><td>Putian</td>
   </tr>
   <tr>
     <td>1403</td><td>Korea, Republic of</td><td></td>
