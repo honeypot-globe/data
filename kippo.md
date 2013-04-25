@@ -141,7 +141,7 @@
     <td>1036</td><td>Viet Nam</td><td></td>
   </tr>
   <tr>
-    <td>995</td><td>China</td><td>Shanghai</td>
+    <td>1019</td><td>China</td><td>Shanghai</td>
   </tr>
   <tr>
     <td>914</td><td>United States</td><td>Cedar Falls</td>
