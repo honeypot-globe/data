@@ -384,6 +384,9 @@
     <td>72</td><td>China</td><td>Chongqing</td>
   </tr>
   <tr>
+    <td>70</td><td>United States</td><td>Phoenix</td>
+  </tr>
+  <tr>
     <td>67</td><td>Canada</td><td>Lasalle</td>
   </tr>
   <tr>
@@ -393,19 +396,19 @@
     <td>58</td><td>Turkey</td><td>Istanbul</td>
   </tr>
   <tr>
-    <td>57</td><td>Austria</td><td></td>
+    <td>57</td><td>United States</td><td>Santa Clara</td>
   </tr>
   <tr>
-    <td>57</td><td>United States</td><td>Santa Clara</td>
+    <td>57</td><td>Austria</td><td></td>
   </tr>
   <tr>
     <td>56</td><td>United States</td><td>Dekalb</td>
   </tr>
   <tr>
-    <td>56</td><td>Ethiopia</td><td></td>
+    <td>56</td><td>Philippines</td><td>Tarlac</td>
   </tr>
   <tr>
-    <td>56</td><td>Philippines</td><td>Tarlac</td>
+    <td>56</td><td>Ethiopia</td><td></td>
   </tr>
   <tr>
     <td>55</td><td>Bangladesh</td><td>Dhaka</td>
@@ -417,16 +420,16 @@
     <td>51</td><td>Hong Kong</td><td></td>
   </tr>
   <tr>
-    <td>50</td><td>Poland</td><td>Debica</td>
-  </tr>
-  <tr>
     <td>50</td><td>Malaysia</td><td>Kuala Lumpur</td>
   </tr>
   <tr>
-    <td>49</td><td>China</td><td>Zibo</td>
+    <td>50</td><td>Poland</td><td>Debica</td>
   </tr>
   <tr>
     <td>49</td><td>United States</td><td>Englewood</td>
+  </tr>
+  <tr>
+    <td>49</td><td>China</td><td>Zibo</td>
   </tr>
   <tr>
     <td>48</td><td>Netherlands</td><td>Delft</td>
@@ -435,22 +438,22 @@
     <td>44</td><td>Thailand</td><td>Surin</td>
   </tr>
   <tr>
-    <td>43</td><td>China</td><td>Qingdao</td>
-  </tr>
-  <tr>
     <td>43</td><td>Brazil</td><td>São Paulo</td>
   </tr>
   <tr>
-    <td>42</td><td>China</td><td>Haidian</td>
+    <td>43</td><td>China</td><td>Qingdao</td>
   </tr>
   <tr>
     <td>42</td><td>China</td><td>Haikou</td>
   </tr>
   <tr>
-    <td>41</td><td>India</td><td>Puri</td>
+    <td>42</td><td>China</td><td>Haidian</td>
   </tr>
   <tr>
     <td>41</td><td>Fiji</td><td>Suva</td>
+  </tr>
+  <tr>
+    <td>41</td><td>India</td><td>Puri</td>
   </tr>
   <tr>
     <td>36</td><td>Peru</td><td>Lima</td>
@@ -516,10 +519,10 @@
     <td>17</td><td>United States</td><td>Springboro</td>
   </tr>
   <tr>
-    <td>15</td><td>China</td><td>Jiamusi</td>
+    <td>15</td><td>India</td><td>Kadapa</td>
   </tr>
   <tr>
-    <td>15</td><td>India</td><td>Kadapa</td>
+    <td>15</td><td>China</td><td>Jiamusi</td>
   </tr>
   <tr>
     <td>14</td><td>United States</td><td>Tampa</td>
